@@ -341,7 +341,7 @@ class SimpleSecurity {
 			}
 
 			# If the rule applies to this title, check if we're a member of the required groups,
-			# remove action from rights list if not (can be mulitple occurences)
+			# remove action from rights list if not (can be mulitple occurrences)
 			# - also update info array with page-restriction that apply to this title (LS), and rules in effect for this user (CR)
 			if ( $deny ) {
 				foreach ( $restriction as $action => $reqgroups ) {
