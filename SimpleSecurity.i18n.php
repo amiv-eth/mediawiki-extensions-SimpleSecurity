@@ -1079,6 +1079,7 @@ $messages['rue'] = array(
 
 /** Slovak (Slovenčina)
  * @author Helix84
+ * @author Teslaton
  */
 $messages['sk'] = array(
 	'security' => 'Bezpečnostný záznam',
@@ -1088,7 +1089,7 @@ $messages['sk'] = array(
 	'badaccess-read' => 'Upozornenie: odkazuje sa tu na „$1“, ale nemáte dostatočné oprácnenia na prístup k nemu.',
 	'security-info' => 'Táto stránka má $1',
 	'security-info-toggle' => 'bezpečnostné obmedzenia',
-	'security-inforestrict' => '$1 nemá povolené $2',
+	'security-inforestrict' => '$1 je obmedzená na $2',
 	'security-desc-LS' => '(týka sa tejto stránky, pretože je na „$2 $1“)',
 	'security-desc-PR' => '(nastavené zo „záložky zamykania“)',
 	'security-infosysops' => 'Žiadne obmedzenia nie sú účinné, pretože ste členom skupiny „sysop“',
@@ -1097,6 +1098,7 @@ $messages['sk'] = array(
 	'security-type-category' => 'kategória',
 	'security-type-namespace' => 'menný priestor',
 	'security-restricttogroup' => 'Prístup k obsahu obmedzenému len pre členov skupiny „$1“',
+	'restriction-read' => 'Čítanie',
 );
 
 /** Somali (Soomaaliga)
