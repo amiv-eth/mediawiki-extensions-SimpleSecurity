@@ -877,6 +877,7 @@ $messages['nl'] = array(
  * @author Gunnernett
  * @author Harald Khan
  * @author Nghtwlkr
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'security' => 'Tryggingslogg',
@@ -925,6 +926,13 @@ $messages['oc'] = array(
 $messages['pdc'] = array(
 	'security-type-category' => 'in de Abdeeling',
 	'security-type-namespace' => 'Blatznaame vun',
+);
+
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'restriction-read' => 'Lese',
 );
 
 /** Polish (Polski)
@@ -1230,7 +1238,7 @@ $messages['uk'] = array(
 	'security-type-namespace' => 'простір назв',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
