@@ -123,7 +123,7 @@ $messages['arc'] = array(
 	'security-type-namespace' => 'ܚܩܠܐ',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  */
 $messages['az'] = array(
@@ -153,7 +153,7 @@ $messages['ba'] = array(
 	'restriction-read' => 'Уҡыу',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Тест
  */
 $messages['be'] = array(
@@ -184,7 +184,7 @@ $messages['be-tarask'] = array(
 	'restriction-read' => 'Чытаць',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -204,7 +204,7 @@ $messages['bn'] = array(
 	'restriction-read' => 'পড়ুন',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fohanno
  * @author Fulup
  * @author Y-M D
@@ -229,7 +229,7 @@ $messages['br'] = array(
 	'restriction-read' => 'Lenn',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -252,7 +252,7 @@ $messages['bs'] = array(
 	'restriction-read' => 'Čitanje',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Paucabot
  */
 $messages['ca'] = array(
@@ -262,12 +262,12 @@ $messages['ca'] = array(
 	'security-type-namespace' => 'espai de noms',
 );
 
-/** Sorani (کوردی) */
+/** Sorani Kurdish (کوردی) */
 $messages['ckb'] = array(
 	'security-type-category' => 'پۆل',
 );
 
-/** Czech (Česky) */
+/** Czech (česky) */
 $messages['cs'] = array(
 	'security-type-category' => 'kategorie',
 	'security-type-namespace' => 'jmenný prostor',
@@ -361,7 +361,7 @@ $messages['eo'] = array(
 	'security-type-namespace' => 'nomspaco',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Antur
  * @author Armando-Martin
  * @author Crazymadlover
@@ -387,7 +387,7 @@ $messages['es'] = array(
 	'restriction-read' => 'Leer',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Kobazulo
  */
@@ -401,7 +401,7 @@ $messages['eu'] = array(
 	'restriction-read' => 'Irakurri',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  * @author Nike
@@ -421,7 +421,7 @@ $messages['fi'] = array(
 	'security-type-namespace' => 'nimiavaruus',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author IAlex
  * @author Sherbrooke
@@ -446,7 +446,7 @@ $messages['fr'] = array(
 	'restriction-read' => 'Lire',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -574,7 +574,7 @@ $messages['hsb'] = array(
 	'restriction-read' => 'Čitać',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dj
  * @author Glanthor Reviol
  */
@@ -598,7 +598,7 @@ $messages['hu'] = array(
 	'restriction-read' => 'Olvasás',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -653,7 +653,7 @@ $messages['ig'] = array(
 	'security-type-category' => 'ébéonọr',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  * @author Darth Kule
  * @author Marco 27
@@ -775,14 +775,14 @@ $messages['lg'] = array(
 	'security-type-namespace' => 'kuŋaanyizo',
 );
 
-/** Latgalian (Latgaļu)
+/** Latgalian (latgaļu)
  * @author Dark Eagle
  */
 $messages['ltg'] = array(
 	'security-type-namespace' => 'vuordu pluots',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -805,7 +805,7 @@ $messages['mk'] = array(
 	'restriction-read' => 'Прочитај',
 );
 
-/** Mongolian (Монгол)
+/** Mongolian (монгол)
  * @author Chinneeb
  */
 $messages['mn'] = array(
@@ -873,7 +873,7 @@ $messages['nl'] = array(
 	'restriction-read' => 'Lezen',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Gunnernett
  * @author Harald Khan
  * @author Nghtwlkr
@@ -896,7 +896,7 @@ $messages['nn'] = array(
 	'restriction-read' => 'Les',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Boulaur
  * @author Cedric31
  */
@@ -935,7 +935,7 @@ $messages['pfl'] = array(
 	'restriction-read' => 'Lese',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Leinad
  * @author Sp5uhe
  */
@@ -990,7 +990,7 @@ $messages['ps'] = array(
 	'security-type-namespace' => 'نوم-تشيال',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Indech
  * @author Lijealso
@@ -1017,7 +1017,7 @@ $messages['pt'] = array(
 	'restriction-read' => 'Ler',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  * @author Raylton P. Sousa
  */
@@ -1041,7 +1041,7 @@ $messages['pt-br'] = array(
 	'restriction-read' => 'Ler',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Danutz
  * @author KlaudiuMihaila
  */
@@ -1053,7 +1053,7 @@ $messages['ro'] = array(
 	'restriction-read' => 'Lectură',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ferrer
  * @author Александр Сигачёв
  */
@@ -1085,7 +1085,7 @@ $messages['rue'] = array(
 	'security-type-namespace' => 'простор назв',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  * @author Teslaton
  */
@@ -1116,7 +1116,7 @@ $messages['so'] = array(
 	'security-type-category' => 'qeybta',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -1126,7 +1126,7 @@ $messages['sr-ec'] = array(
 	'security-type-namespace' => 'именски простор',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'security-info-toggle' => 'sigurnosna ograničenja',
 	'security-manygroups' => 'grupe $1 i $2',
@@ -1134,7 +1134,7 @@ $messages['sr-el'] = array(
 	'security-type-namespace' => 'imenski prostor',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Fluff
  * @author Per
  * @author Rotsee
@@ -1164,7 +1164,7 @@ $messages['te'] = array(
 	'security-type-namespace' => 'పేరుబరి',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -1222,7 +1222,7 @@ $messages['tr'] = array(
 	'security-type-namespace' => 'ad alanı',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  * @author Тест
  */
@@ -1269,7 +1269,7 @@ $messages['yi'] = array(
 	'security-type-namespace' => 'נאָמענטייל',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  * @author Liangent
  * @author PhiLiP
@@ -1281,7 +1281,7 @@ $messages['zh-hans'] = array(
 	'restriction-read' => '读',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  * @author Oapbtommy
  * @author Wrightbus
