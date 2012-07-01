@@ -82,7 +82,7 @@ $messages['aln'] = array(
 	'security-restricttogroup' => 'Përmbajtja Hyrje kufizuar për anëtarët e "$1"',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -160,7 +160,7 @@ $messages['be'] = array(
 	'security-type-category' => 'катэгорыя',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -308,7 +308,7 @@ $messages['de-formal'] = array(
 	'security-infosysops' => 'Für Sie sind keine Einschränkungen aktiv, weil Sie der Gruppe „Administratoren“ angehören.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -466,7 +466,7 @@ $messages['frp'] = array(
 	'restriction-read' => 'Liére',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -551,7 +551,7 @@ $messages['he'] = array(
 	'restriction-read' => 'קריאה',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -1077,7 +1077,7 @@ $messages['ru'] = array(
 	'restriction-read' => 'Чтение',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
