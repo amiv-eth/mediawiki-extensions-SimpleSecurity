@@ -745,6 +745,13 @@ dat mer och et Sigge-Aanloore ennschrängke kann.',
 	'restriction-read' => 'Lässe',
 );
 
+/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+ * @author George Animal
+ */
+$messages['ku-latn'] = array(
+	'security-type-category' => 'kategorî',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
