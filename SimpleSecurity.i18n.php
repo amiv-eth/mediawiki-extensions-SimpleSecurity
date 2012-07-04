@@ -308,6 +308,13 @@ $messages['de-formal'] = array(
 	'security-infosysops' => 'Für Sie sind keine Einschränkungen aktiv, weil Sie der Gruppe „Administratoren“ angehören.',
 );
 
+/** Zazaki (Zazaki)
+ * @author Mirzali
+ */
+$messages['diq'] = array(
+	'security-type-category' => 'kategoriye',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
