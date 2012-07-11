@@ -130,7 +130,7 @@ $messages['az'] = array(
 	'security-type-category' => 'kateqoriya',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -833,14 +833,14 @@ $messages['ms'] = array(
 	'security-type-category' => 'kategori',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
 	'security-type-namespace' => 'лемпотмо',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  * @author Simny
  */
@@ -1252,7 +1252,7 @@ $messages['uk'] = array(
 	'security-type-namespace' => 'простір назв',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
