@@ -408,6 +408,18 @@ $messages['eu'] = array(
 	'restriction-read' => 'Irakurri',
 );
 
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'security' => 'سیاههٔ امنیتی',
+	'security-logpage' => 'سیاههٔ امنیتی',
+	'security-info' => '$1 در این صفحه وجود دارد',
+	'security-type-category' => 'رده',
+	'security-type-namespace' => 'فضای نام',
+	'restriction-read' => 'خواندن',
+);
+
 /** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
