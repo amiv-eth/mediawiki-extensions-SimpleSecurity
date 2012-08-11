@@ -725,6 +725,15 @@ $messages['ja'] = array(
 	'restriction-read' => '閲覧',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'security-type-category' => 'კატეგორია',
+	'security-type-namespace' => 'სახელთა სივრცე',
+	'restriction-read' => 'კითხვა',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author គីមស៊្រុន
  * @author វ័ណថារិទ្ធ
@@ -1184,6 +1193,8 @@ $messages['sv'] = array(
  * @author Veeven
  */
 $messages['te'] = array(
+	'security' => 'భద్రతా చిట్టా',
+	'security-logpage' => 'భద్రతా చిట్టా',
 	'security-info-toggle' => 'భద్రతా నియంత్రణలు',
 	'security-desc-LS' => '(ఈ పుట "$2 $1"లో ఉన్నందున వర్తిస్తుంది)',
 	'security-type-category' => 'వర్గం',
