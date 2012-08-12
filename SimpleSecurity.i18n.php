@@ -1120,6 +1120,15 @@ $messages['rue'] = array(
 	'security-type-namespace' => 'простор назв',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'security-type-category' => 'ප්‍රවර්ගය',
+	'security-type-namespace' => 'නාමඅවකාශය',
+	'restriction-read' => 'කියවන්න',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  * @author Teslaton
@@ -1187,6 +1196,15 @@ $messages['sv'] = array(
 	'security-type-category' => 'kategori',
 	'security-type-namespace' => 'namnrymd',
 	'security-restricttogroup' => 'Tillgång till innehållet är begränsat till medlemmar av "$1"',
+);
+
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'security-type-category' => 'பகுப்பு',
+	'security-type-namespace' => 'பெயர்வெளி',
+	'restriction-read' => 'படி',
 );
 
 /** Telugu (తెలుగు)
