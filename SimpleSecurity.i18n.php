@@ -394,6 +394,14 @@ $messages['es'] = array(
 	'restriction-read' => 'Leer',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'security-type-category' => 'kategooria',
+	'security-type-namespace' => 'nimeruum',
+);
+
 /** Basque (euskara)
  * @author An13sa
  * @author Kobazulo
