@@ -493,6 +493,15 @@ $messages['frp'] = array(
 	'restriction-read' => 'Liére',
 );
 
+/** Irish (Gaeilge)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ga'] = array(
+	'security-type-category' => 'catagóir',
+	'security-type-namespace' => 'Ainmspás',
+	'restriction-read' => 'Léigh',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
@@ -1312,6 +1321,7 @@ $messages['vep'] = array(
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  * @author Trần Nguyễn Minh Huy
+ * @author පසිඳු කාවින්ද
  */
 $messages['vi'] = array(
 	'security' => 'Nhật trình bảo mật',
@@ -1321,6 +1331,7 @@ $messages['vi'] = array(
 	'security-manygroups' => 'các nhóm $1 và $2',
 	'security-type-category' => 'thể loại',
 	'security-type-namespace' => 'không gian tên',
+	'restriction-read' => 'Đọc',
 );
 
 /** Yiddish (ייִדיש)
