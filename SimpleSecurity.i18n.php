@@ -1310,6 +1310,15 @@ $messages['uk'] = array(
 	'security-type-namespace' => 'простір назв',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'security-type-category' => 'زمرہ',
+	'security-type-namespace' => 'نیم سپیس',
+	'restriction-read' => 'پڑھیں',
+);
+
 /** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
