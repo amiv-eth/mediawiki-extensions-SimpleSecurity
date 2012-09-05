@@ -1040,6 +1040,7 @@ $messages['pms'] = array(
 $messages['ps'] = array(
 	'security-type-category' => 'وېشنيزه',
 	'security-type-namespace' => 'نوم-تشيال',
+	'restriction-read' => 'لوستل',
 );
 
 /** Portuguese (português)
