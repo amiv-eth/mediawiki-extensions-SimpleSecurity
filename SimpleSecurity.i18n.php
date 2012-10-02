@@ -160,7 +160,7 @@ $messages['be'] = array(
 	'security-type-category' => 'катэгорыя',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -299,7 +299,7 @@ $messages['de'] = array(
 	'restriction-read' => 'Lesen',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  * @author Umherirrender
  */
@@ -556,7 +556,7 @@ $messages['gsw'] = array(
 	'restriction-read' => 'Läse',
 );
 
-/** Hausa (هَوُسَ) */
+/** Hausa (Hausa) */
 $messages['ha'] = array(
 	'security-type-category' => 'rukuni',
 	'security-type-namespace' => 'sararin suna',
@@ -790,7 +790,7 @@ dat mer och et Sigge-Aanloore ennschrängke kann.',
 	'restriction-read' => 'Lässe',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -878,7 +878,7 @@ $messages['myv'] = array(
 	'security-type-namespace' => 'лемпотмо',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  * @author Simny
  */
@@ -925,7 +925,7 @@ $messages['nl'] = array(
 	'restriction-read' => 'Lezen',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Gunnernett
  * @author Harald Khan
  * @author Nghtwlkr
@@ -1178,7 +1178,7 @@ $messages['so'] = array(
 	'security-type-category' => 'qeybta',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -1188,7 +1188,7 @@ $messages['sr-ec'] = array(
 	'security-type-namespace' => 'именски простор',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'security-info-toggle' => 'sigurnosna ograničenja',
 	'security-manygroups' => 'grupe $1 i $2',
@@ -1353,7 +1353,7 @@ $messages['yi'] = array(
 	'security-type-namespace' => 'נאָמענטייל',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  * @author Liangent
  * @author PhiLiP
@@ -1365,7 +1365,7 @@ $messages['zh-hans'] = array(
 	'restriction-read' => '读',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  * @author Oapbtommy
  * @author Wrightbus
