@@ -38,10 +38,12 @@ $messages['en'] = array(
  * @author Fryed-peach
  * @author Purodha
  * @author Siebrand
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'security' => '{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}} ({{int:protectlogpage}})!}}',
 	'security-desc' => '{{desc}}',
+	'security-logentry' => '{{notranslate}}',
 	'badaccess-read' => '$1 is a page title that is restricted to access.',
 	'security-info' => '$1 is {{msg-mw|Security-info-toggle}} with a link',
 	'security-inforestrict' => '* $1 is an action name
@@ -262,12 +264,14 @@ $messages['ca'] = array(
 	'security-type-namespace' => 'espai de noms',
 );
 
-/** Sorani Kurdish (کوردی) */
+/** Sorani Kurdish (کوردی)
+ */
 $messages['ckb'] = array(
 	'security-type-category' => 'پۆل',
 );
 
-/** Czech (česky) */
+/** Czech (česky)
+ */
 $messages['cs'] = array(
 	'security-type-category' => 'kategorie',
 	'security-type-namespace' => 'jmenný prostor',
@@ -556,7 +560,8 @@ $messages['gsw'] = array(
 	'restriction-read' => 'Läse',
 );
 
-/** Hausa (Hausa) */
+/** Hausa (Hausa)
+ */
 $messages['ha'] = array(
 	'security-type-category' => 'rukuni',
 	'security-type-namespace' => 'sararin suna',
@@ -1188,7 +1193,8 @@ $messages['sr-ec'] = array(
 	'security-type-namespace' => 'именски простор',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'security-info-toggle' => 'sigurnosna ograničenja',
 	'security-manygroups' => 'grupe $1 i $2',
@@ -1349,8 +1355,11 @@ $messages['vi'] = array(
  */
 $messages['yi'] = array(
 	'badaccess-read' => "'''ווארענונג:''' \"\$1\" ווערט אָנגעוויזן אַהער, אבער איר האט נישט גענוג דערלויבנישן צו האָבן צוטריט צו אים.",
+	'security-manygroups' => 'גרופעס $1 און $2',
+	'security-unchain' => 'ענדערן אקציעס באזונדער',
 	'security-type-category' => 'קאַטעגאריע',
 	'security-type-namespace' => 'נאָמענטייל',
+	'restriction-read' => 'לייענען',
 );
 
 /** Simplified Chinese (中文（简体）‎)
@@ -1375,4 +1384,3 @@ $messages['zh-hant'] = array(
 	'security-type-namespace' => '名字空間',
 	'restriction-read' => '讀',
 );
-
