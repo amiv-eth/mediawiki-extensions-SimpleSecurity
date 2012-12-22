@@ -1303,6 +1303,7 @@ $messages['tr'] = array(
 
 /** Ukrainian (українська)
  * @author Prima klasy4na
+ * @author Steve.rusyn
  * @author Тест
  */
 $messages['uk'] = array(
@@ -1315,6 +1316,7 @@ $messages['uk'] = array(
 	'security-inforestrict' => '$1 обмежений для $2',
 	'security-type-category' => 'категорія',
 	'security-type-namespace' => 'простір назв',
+	'restriction-read' => 'Читати',
 );
 
 /** Urdu (اردو)
