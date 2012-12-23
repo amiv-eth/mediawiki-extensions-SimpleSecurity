@@ -37,11 +37,12 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Fryed-peach
  * @author Purodha
+ * @author Shirayuki
  * @author Siebrand
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'security' => '{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}} ({{int:protectlogpage}})!}}',
+	'security' => '{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}}!}}',
 	'security-desc' => '{{desc}}',
 	'security-logentry' => '{{notranslate}}',
 	'badaccess-read' => '$1 is a page title that is restricted to access.',
@@ -188,10 +189,12 @@ $messages['be-tarask'] = array(
 
 /** Bulgarian (български)
  * @author DCLXVI
+ * @author පසිඳු කාවින්ද
  */
 $messages['bg'] = array(
 	'security-type-category' => 'категория',
 	'security-type-namespace' => 'именно пространство',
+	'restriction-read' => 'Прочети',
 );
 
 /** Bengali (বাংলা)
@@ -1206,6 +1209,7 @@ $messages['sr-el'] = array(
  * @author Fluff
  * @author Per
  * @author Rotsee
+ * @author WikiPhoenix
  */
 $messages['sv'] = array(
 	'security' => 'Säkerhetslogg',
@@ -1220,6 +1224,7 @@ $messages['sv'] = array(
 	'security-type-category' => 'kategori',
 	'security-type-namespace' => 'namnrymd',
 	'security-restricttogroup' => 'Tillgång till innehållet är begränsat till medlemmar av "$1"',
+	'restriction-read' => 'Läs',
 );
 
 /** Tamil (தமிழ்)
@@ -1368,9 +1373,12 @@ $messages['yi'] = array(
  * @author Hydra
  * @author Liangent
  * @author PhiLiP
+ * @author Shirayuki
  * @author Xiaomingyan
  */
 $messages['zh-hans'] = array(
+	'security' => '安全日志',
+	'security-logpage' => '安全日志',
 	'security-type-category' => '分类',
 	'security-type-namespace' => '名字空间',
 	'restriction-read' => '读',
@@ -1379,9 +1387,12 @@ $messages['zh-hans'] = array(
 /** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  * @author Oapbtommy
+ * @author Shirayuki
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
+	'security' => '安全日誌',
+	'security-logpage' => '安全日誌',
 	'security-type-category' => '類別',
 	'security-type-namespace' => '名字空間',
 	'restriction-read' => '讀',
