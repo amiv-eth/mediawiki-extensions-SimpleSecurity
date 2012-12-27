@@ -1229,8 +1229,11 @@ $messages['sv'] = array(
 
 /** Tamil (தமிழ்)
  * @author Karthi.dr
+ * @author Shanmugamp7
  */
 $messages['ta'] = array(
+	'security' => 'பாதுகாப்புப் பதிகை',
+	'security-logpage' => 'பாதுகாப்புப் பதிகை',
 	'security-type-category' => 'பகுப்பு',
 	'security-type-namespace' => 'பெயர்வெளி',
 	'restriction-read' => 'படி',
