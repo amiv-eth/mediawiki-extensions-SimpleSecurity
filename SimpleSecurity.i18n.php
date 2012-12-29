@@ -1150,6 +1150,10 @@ $messages['rue'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'security' => 'ආරක්ෂණ ලොගය',
+	'security-logpage' => 'ආරක්ෂණ ලොගය',
+	'security-info-toggle' => 'ආරක්ෂණ සීමා කිරීම්',
+	'security-manygroups' => '$1 සමූහ සහ $2',
 	'security-type-category' => 'ප්‍රවර්ගය',
 	'security-type-namespace' => 'නාමඅවකාශය',
 	'restriction-read' => 'කියවන්න',
