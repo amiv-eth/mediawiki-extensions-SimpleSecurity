@@ -274,10 +274,12 @@ $messages['ckb'] = array(
 );
 
 /** Czech (česky)
+ * @author Vks
  */
 $messages['cs'] = array(
 	'security-type-category' => 'kategorie',
 	'security-type-namespace' => 'jmenný prostor',
+	'restriction-read' => 'Čtení',
 );
 
 /** German (Deutsch)
