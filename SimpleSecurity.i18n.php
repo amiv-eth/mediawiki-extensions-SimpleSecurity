@@ -1107,10 +1107,12 @@ $messages['pt-br'] = array(
 /** Romanian (română)
  * @author Danutz
  * @author KlaudiuMihaila
+ * @author Stelistcristi
  */
 $messages['ro'] = array(
 	'security' => 'Jurnal securitate',
 	'security-logpage' => 'Jurnal securitate',
+	'security-info-toggle' => 'restricții de securitate',
 	'security-type-category' => 'categorie',
 	'security-type-namespace' => 'spațiu de nume',
 	'restriction-read' => 'Lectură',
@@ -1154,8 +1156,12 @@ $messages['rue'] = array(
 $messages['si'] = array(
 	'security' => 'ආරක්ෂණ ලොගය',
 	'security-logpage' => 'ආරක්ෂණ ලොගය',
+	'security-info' => 'මෙම පිටුව මත $1 ඇත',
 	'security-info-toggle' => 'ආරක්ෂණ සීමා කිරීම්',
+	'security-inforestrict' => '$1 $2 වෙත සීමා කර ඇත',
+	'security-desc-PR' => '("ආරක්ෂණය" ටැබයෙන් සකසන්න)',
 	'security-manygroups' => '$1 සමූහ සහ $2',
+	'security-unchain' => 'ක්‍රියාවන් තනි තනිව වෙනස් කරන්න',
 	'security-type-category' => 'ප්‍රවර්ගය',
 	'security-type-namespace' => 'නාමඅවකාශය',
 	'restriction-read' => 'කියවන්න',
