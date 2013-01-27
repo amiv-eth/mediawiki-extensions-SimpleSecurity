@@ -1398,10 +1398,13 @@ $messages['yi'] = array(
  * @author PhiLiP
  * @author Shirayuki
  * @author Xiaomingyan
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'security' => '安全日志',
+	'security-desc' => '扩展MediaWiki页面保护功能，允许限制查看页面内容',
 	'security-logpage' => '安全日志',
+	'security-logpagetext' => '这是[http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity 扩展]封禁操作的日志。',
 	'security-type-category' => '分类',
 	'security-type-namespace' => '名字空间',
 	'restriction-read' => '读',
