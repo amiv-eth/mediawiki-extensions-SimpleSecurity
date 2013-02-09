@@ -350,6 +350,7 @@ $messages['dsb'] = array(
 /** Greek (Ελληνικά)
  * @author Consta
  * @author Crazymadlover
+ * @author Glavkos
  * @author Omnipaedista
  * @author ZaDiak
  */
@@ -363,7 +364,7 @@ $messages['el'] = array(
 	'security-manygroups' => 'ομάδες $1 και $2',
 	'security-unchain' => 'Τροποποίηση ενεργειών ατομικά',
 	'security-type-category' => 'κατηγορία',
-	'security-type-namespace' => 'περιοχή ονομάτων',
+	'security-type-namespace' => 'ονοματοχώρος',
 );
 
 /** Esperanto (Esperanto)
