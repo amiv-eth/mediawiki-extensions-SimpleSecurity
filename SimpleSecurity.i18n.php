@@ -43,7 +43,7 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'security' => '{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}}!}}',
-	'security-desc' => '{{desc}}',
+	'security-desc' => '{{desc|name=Simple Security|url=http://www.mediawiki.org/wiki/Extension:SimpleSecurity}}',
 	'security-logentry' => '{{notranslate}}',
 	'badaccess-read' => '$1 is a page title that is restricted to access.',
 	'security-info' => '$1 is {{msg-mw|Security-info-toggle}} with a link',
