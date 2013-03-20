@@ -51,8 +51,14 @@ $messages['qqq'] = array(
 * $2 contains user group name(s)',
 	'security-desc-LS' => '* $1 is the name of a category or namespace
 * $2 is {{msg-mw|security-type-category}} or {{msg-mw|security-type-namespace}}',
+	'security-manygroups' => 'Used to show list of groups. $2 is tail of the group, and $1 is everything else.
+* $1 - list of groups (1 or more groups, comma separated)
+* $2 - tail of the group list
+If number of groups is 1, not-localized string "the \'\'\'$1\'\'\' group" is used instead.',
 	'security-type-category' => '{{Identical|Category}}',
 	'security-type-namespace' => '{{Identical|Namespace}}',
+	'security-restricttogroup' => 'Parameters:
+* $1 - extra group name',
 );
 
 /** Afrikaans (Afrikaans)
@@ -731,6 +737,7 @@ $messages['it'] = array(
  * @author Fievarsty
  * @author Fryed-peach
  * @author Hosiryuhosi
+ * @author Shirayuki
  * @author Whym
  */
 $messages['ja'] = array(
@@ -745,7 +752,7 @@ $messages['ja'] = array(
 	'security-desc-LS' => '(この記事が「$2 $1」にあるため)',
 	'security-desc-PR' => '(「保護」タブからの設定)',
 	'security-infosysops' => 'あなたは「管理者」グループに所属しているため、制限は無効です',
-	'security-manygroups' => 'グループ $1 および $2',
+	'security-manygroups' => 'グループ $1, $2',
 	'security-unchain' => '操作別に変更する',
 	'security-type-category' => 'カテゴリ',
 	'security-type-namespace' => '名前空間',
