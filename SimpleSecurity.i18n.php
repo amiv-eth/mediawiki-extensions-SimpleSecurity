@@ -1127,6 +1127,16 @@ $messages['ro'] = array(
 	'restriction-read' => 'Lectură',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'security' => 'Archivije de securezze',
+	'security-logpage' => 'Archivije de securezze',
+	'security-type-category' => 'categorije',
+	'security-type-namespace' => 'namespace',
+);
+
 /** Russian (русский)
  * @author Ferrer
  * @author Александр Сигачёв
