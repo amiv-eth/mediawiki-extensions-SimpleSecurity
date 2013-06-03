@@ -390,6 +390,7 @@ $messages['eo'] = array(
  * @author Armando-Martin
  * @author Crazymadlover
  * @author Dferg
+ * @author MarcoAurelio
  */
 $messages['es'] = array(
 	'security' => 'Registro de seguridad',
@@ -897,7 +898,7 @@ $messages['myv'] = array(
 	'security-type-namespace' => 'лемпотмо',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  * @author Simny
  */
@@ -944,7 +945,7 @@ $messages['nl'] = array(
 	'restriction-read' => 'Lezen',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Gunnernett
  * @author Harald Khan
  * @author Nghtwlkr
