@@ -59,6 +59,7 @@ If number of groups is 1, not-localized string "the \'\'\'$1\'\'\' group" is use
 	'security-type-namespace' => '{{Identical|Namespace}}',
 	'security-restricttogroup' => 'Parameters:
 * $1 - extra group name',
+	'restriction-read' => '{{Identical|Read}}',
 );
 
 /** Afrikaans (Afrikaans)
