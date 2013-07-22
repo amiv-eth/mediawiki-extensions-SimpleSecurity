@@ -1068,12 +1068,13 @@ $messages['ps'] = array(
  * @author Hamilton Abreu
  * @author Indech
  * @author Lijealso
+ * @author Luckas
  * @author Malafaya
  * @author Waldir
  */
 $messages['pt'] = array(
 	'security' => 'Registo de segurança',
-	'security-desc' => 'Expande a protecção de páginas do MediaWiki para permitir restrições ao visionamento do conteúdo de páginas',
+	'security-desc' => 'Expande a proteção de páginas do MediaWiki para permitir restrições ao visionamento do conteúdo de páginas',
 	'security-logpage' => 'Registo de segurança',
 	'security-logpagetext' => 'Este é um registo de acções bloqueadas pela [http://www.mediawiki.org/wiki/Extension:SimpleSecurity extensão SimpleSecurity].',
 	'badaccess-read' => "'''Aviso:''' \"\$1\" é referido aqui, mas não tem permissões suficientes para aceder ao registo.",
