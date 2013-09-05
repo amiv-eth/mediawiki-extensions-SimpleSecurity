@@ -45,8 +45,10 @@ $messages['qqq'] = array(
 	'security' => '{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}}!}}',
 	'security-desc' => '{{desc|name=Simple Security|url=http://www.mediawiki.org/wiki/Extension:SimpleSecurity}}',
 	'security-logentry' => '{{notranslate}}',
-	'badaccess-read' => '$1 is a page title that is restricted to access.',
-	'security-info' => '$1 is {{msg-mw|Security-info-toggle}} with a link',
+	'badaccess-read' => 'Used as warning if unreadable. Parameters:
+* $1 - a page title that is restricted to access',
+	'security-info' => 'Parameters:
+* $1 - {{msg-mw|Security-info-toggle}} with a link',
 	'security-inforestrict' => '* $1 is an action name
 * $2 contains user group name(s)',
 	'security-desc-LS' => '* $1 is the name of a category or namespace
