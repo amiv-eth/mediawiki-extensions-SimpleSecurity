@@ -49,10 +49,12 @@ $messages['qqq'] = array(
 * $1 - a page title that is restricted to access',
 	'security-info' => 'Parameters:
 * $1 - {{msg-mw|Security-info-toggle}} with a link',
-	'security-inforestrict' => '* $1 is an action name
-* $2 contains user group name(s)',
-	'security-desc-LS' => '* $1 is the name of a category or namespace
-* $2 is {{msg-mw|security-type-category}} or {{msg-mw|security-type-namespace}}',
+	'security-inforestrict' => 'Parameters:
+* $1 - an action name
+* $2 - user group name(s)',
+	'security-desc-LS' => 'Parameters:
+* $1 - {{msg-mw|security-type-category}} or {{msg-mw|security-type-namespace}}
+* $2 - the name of a category or namespace',
 	'security-manygroups' => 'Used to show list of groups. $2 is tail of the group, and $1 is everything else.
 * $1 - list of groups (1 or more groups, comma separated)
 * $2 - tail of the group list
