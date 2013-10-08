@@ -1370,6 +1370,7 @@ $messages['tr'] = array(
 /** Ukrainian (українська)
  * @author Prima klasy4na
  * @author Steve.rusyn
+ * @author SteveR
  * @author Ата
  * @author Тест
  */
