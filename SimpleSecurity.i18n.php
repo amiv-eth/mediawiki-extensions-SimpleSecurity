@@ -1432,6 +1432,8 @@ $messages['vi'] = array(
  */
 $messages['yi'] = array(
 	'badaccess-read' => "'''ווארענונג:''' \"\$1\" ווערט אָנגעוויזן אַהער, אבער איר האט נישט גענוג דערלויבנישן צו האָבן צוטריט צו אים.",
+	'security-info' => 'עס זענען פֿאראן $1 אויף דעם בלאט',
+	'security-inforestrict' => '$1 איז באגרענעצט צו $2',
 	'security-manygroups' => 'גרופעס $1 און $2',
 	'security-unchain' => 'ענדערן אקציעס באזונדער',
 	'security-type-category' => 'קאַטעגאריע',
