@@ -329,11 +329,13 @@ $messages['de-formal'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Marmase
  * @author Mirzali
  */
 $messages['diq'] = array(
-	'security-type-category' => 'kategoriye',
+	'security-type-category' => 'Kategori',
 	'security-type-namespace' => 'cayê namey',
+	'restriction-read' => 'Buwan',
 );
 
 /** Lower Sorbian (dolnoserbski)
