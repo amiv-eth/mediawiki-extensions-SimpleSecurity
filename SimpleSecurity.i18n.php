@@ -284,7 +284,7 @@ $messages['ckb'] = array(
 	'security-type-category' => 'پۆل',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Vks
  */
 $messages['cs'] = array(
