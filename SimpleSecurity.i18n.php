@@ -278,6 +278,13 @@ $messages['ca'] = array(
 	'security-type-namespace' => 'espai de noms',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'security-type-category' => 'категореш',
+);
+
 /** Sorani Kurdish (کوردی)
  */
 $messages['ckb'] = array(
