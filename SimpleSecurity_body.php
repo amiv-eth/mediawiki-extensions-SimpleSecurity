@@ -363,7 +363,7 @@ class SimpleSecurity {
 	}
 
 	/**
-	 * Create the new Database class with hooks in its query() and fetchObject() methods and use our LBFactory_SimpleSecurity class
+	 * Create the new Database class with hooks in its query() and fetchObject() methods and use our LBFactorySimpleSecurity class
 	 */
 	static function applyDatabaseHook() {
 		global $wgDBtype, $wgLBFactoryConf;
@@ -386,16 +386,16 @@ class SimpleSecurity {
 		}' );
 
 		# Make sure our new LBFactory is used which in turn uses our LoadBalancer and Database classes
-		$wgLBFactoryConf = array( 'class' => 'LBFactory_SimpleSecurity' );
+		$wgLBFactoryConf = array( 'class' => 'LBFactorySimpleSecurity' );
 
 	}
 
 }
 
 /**
- * The new LBFactory_SimpleSecurity class identical to LBFactory_Simple except that it returns a LoadBalancer_SimpleSecurity object
+ * The new LBFactorySimpleSecurity class identical to LBFactorySimple except that it returns a LoadBalancerSimpleSecurity object
  */
-class LBFactory_SimpleSecurity extends LBFactory_Simple {
+class LBFactorySimpleSecurity extends LBFactorySimple {
 
 	function newMainLB( $wiki = false ) {
 		global $wgDBservers, $wgMasterWaitTimeout;
@@ -413,7 +413,7 @@ class LBFactory_SimpleSecurity extends LBFactory_Simple {
 				'flags' => ($wgDebugDumpSql ? DBO_DEBUG : 0) | DBO_DEFAULT
 			));
 		}
-		return new LoadBalancer_SimpleSecurity( array(
+		return new LoadBalancerSimpleSecurity( array(
 			'servers' => $servers,
 			'masterWaitTimeout' => $wgMasterWaitTimeout
 		));
@@ -421,10 +421,13 @@ class LBFactory_SimpleSecurity extends LBFactory_Simple {
 
 }
 
+// Backward compatibility since MediaWiki 1.23
+class_alias( 'LBFactorySimpleSecurity', 'LBFactory_SimpleSecurity' );
+
 /**
- * LoadBalancer_SimpleSecurity always returns Database_SimpleSecurity regardles of $wgDBtype
+ * LoadBalancerSimpleSecurity always returns Database_SimpleSecurity regardles of $wgDBtype
  */
-class LoadBalancer_SimpleSecurity extends LoadBalancer {
+class LoadBalancerSimpleSecurity extends LoadBalancer {
 
 	function reallyOpenConnection( $server, $dbNameOverride = false ) {
 		if( !is_array( $server ) ) {
