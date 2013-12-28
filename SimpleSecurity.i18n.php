@@ -342,7 +342,7 @@ $messages['de-formal'] = array(
 $messages['diq'] = array(
 	'security-type-category' => 'Kategori',
 	'security-type-namespace' => 'cayê namey',
-	'restriction-read' => 'Buwan',
+	'restriction-read' => 'Bıwane',
 );
 
 /** Lower Sorbian (dolnoserbski)
