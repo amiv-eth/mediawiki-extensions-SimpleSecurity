@@ -282,6 +282,7 @@ $messages['ca'] = array(
  * @author Умар
  */
 $messages['ce'] = array(
+	'security-info' => 'ХӀокху агӀона ю $1',
 	'security-type-category' => 'категореш',
 );
 
@@ -340,7 +341,7 @@ $messages['de-formal'] = array(
  * @author Mirzali
  */
 $messages['diq'] = array(
-	'security-type-category' => 'Kategori',
+	'security-type-category' => 'kategoriye',
 	'security-type-namespace' => 'cayê namey',
 	'restriction-read' => 'Bıwane',
 );
