@@ -803,6 +803,7 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Kwj2772
+ * @author Priviet
  * @author 아라
  */
 $messages['ko'] = array(
@@ -812,9 +813,11 @@ $messages['ko'] = array(
 	'security-logpagetext' => '[http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity 확장 기능]이 차단한 행동의 기록입니다.',
 	'security-info' => '이 문서에 $1이 있습니다',
 	'security-info-toggle' => '보안 제한',
+	'security-inforestrict' => '$1 명령은 $2에 대해 제한되어 있습니다',
 	'security-desc-LS' => '(이 문서는 "$2 $1"에 있기 때문에 적용)',
 	'security-desc-PR' => '("보호" 탭에서 설정)',
 	'security-manygroups' => '그룹 $1 그리고 $2',
+	'security-unchain' => '개별적으로 명령을 수정하기',
 	'security-type-category' => '분류',
 	'security-type-namespace' => '이름공간',
 	'security-restricttogroup' => '"$1"의 구성원이 제한된 내용에 접근',
