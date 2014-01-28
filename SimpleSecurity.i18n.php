@@ -450,14 +450,22 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Armin1392
  * @author Mjbmr
  */
 $messages['fa'] = array(
 	'security' => 'سیاههٔ امنیتی',
 	'security-logpage' => 'سیاههٔ امنیتی',
 	'security-info' => '$1 در این صفحه وجود دارد',
+	'security-info-toggle' => 'محدودیت‌های امنیتی',
+	'security-inforestrict' => '$1 محدود شده‌است به $2',
+	'security-desc-LS' => '(اعمال می شود زیرا این صفحه در "$2 $1" است)',
+	'security-desc-PR' => '(نصب از تب "حفاظت")',
+	'security-manygroups' => 'گروه‌های $1 و $2',
+	'security-unchain' => 'اصلاح عملیات به طور جداگانه',
 	'security-type-category' => 'رده',
 	'security-type-namespace' => 'فضای نام',
+	'security-restricttogroup' => 'دسترسی به محتوای محدود شده به اعضای "$1"',
 	'restriction-read' => 'خواندن',
 );
 
