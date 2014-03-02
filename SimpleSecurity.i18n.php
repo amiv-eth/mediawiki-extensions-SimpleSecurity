@@ -455,12 +455,16 @@ $messages['eu'] = array(
  */
 $messages['fa'] = array(
 	'security' => 'سیاههٔ امنیتی',
+	'security-desc' => 'گسترش حمایت صفحه مدیاویکی برای محدود کردن مشاهده محتوای صفحه اجازه می‌دهد',
 	'security-logpage' => 'سیاههٔ امنیتی',
+	'security-logpagetext' => 'این سیاهه عملیات مسدود شده توسط [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity extension] است.',
+	'badaccess-read' => "'''هشدار:''' \"\$1\" به اینجا ارجاع شده، اما شما مجوز کافی برای دسترسی به آن را ندارید.",
 	'security-info' => '$1 در این صفحه وجود دارد',
 	'security-info-toggle' => 'محدودیت‌های امنیتی',
 	'security-inforestrict' => '$1 محدود شده‌است به $2',
 	'security-desc-LS' => '(اعمال می شود زیرا این صفحه در "$2 $1" است)',
 	'security-desc-PR' => '(نصب از تب "حفاظت")',
+	'security-infosysops' => 'هیچ محدودیتی تحت تأثیر نیستند، زیرا شما عضو گروه "سیساپ" هستید',
 	'security-manygroups' => 'گروه‌های $1 و $2',
 	'security-unchain' => 'اصلاح عملیات به طور جداگانه',
 	'security-type-category' => 'رده',
