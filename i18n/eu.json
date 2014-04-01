@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "An13sa",
+            "Kobazulo"
+        ]
+    },
+    "security": "Segurtasun erregistroa",
+    "security-logpage": "Segurtasun erregistroa",
+    "security-info-toggle": "segurtasun murrizketak",
+    "security-manygroups": "$1 eta $2 taldeak",
+    "security-type-category": "kategoria",
+    "security-type-namespace": "izen-tartea",
+    "restriction-read": "Irakurri"
+}

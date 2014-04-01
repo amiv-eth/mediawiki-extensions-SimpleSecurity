@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mark85296341",
+            "Oapbtommy",
+            "Shirayuki",
+            "Wrightbus"
+        ]
+    },
+    "security": "安全日誌",
+    "security-logpage": "安全日誌",
+    "security-type-category": "類別",
+    "security-type-namespace": "名字空間",
+    "restriction-read": "讀"
+}

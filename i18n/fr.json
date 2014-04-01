@@ -1,0 +1,26 @@
+{
+    "@metadata": {
+        "authors": [
+            "Crochet.david",
+            "IAlex",
+            "Sherbrooke"
+        ]
+    },
+    "security": "Journal de sécurité",
+    "security-desc": "Étend l’interface de protection de MediaWiki pour permettre de restreindre la vue des pages",
+    "security-logpage": "Journal de sécurité",
+    "security-logpagetext": "Ceci est un journal des actions bloquées par l’[http://www.mediawiki.org/wiki/Extension:SimpleSecurity extension SimpleSecurity].",
+    "badaccess-read": "Attention : « $1 » est référencé ici, mais vous ne disposez pas des autorisations pour y accéder.",
+    "security-info": "Il y a $1 sur cet article",
+    "security-info-toggle": "restrictions de sécurité",
+    "security-inforestrict": "$1 est limité à $2",
+    "security-desc-LS": "(s’applique parce que cet article est dans le « $1 $2 »)",
+    "security-desc-PR": "(défini depuis l’onglet de protection)",
+    "security-infosysops": "Aucune restriction en vigueur parce que vous êtes un membre du groupe « administrateur »",
+    "security-manygroups": "groupes $1 et $2",
+    "security-unchain": "Modifier les actions individuellement",
+    "security-type-category": "catégorie",
+    "security-type-namespace": "espace de noms",
+    "security-restricttogroup": "Accès au contenu réservé aux membres de « $1 »",
+    "restriction-read": "Lire"
+}

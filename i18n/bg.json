@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "DCLXVI",
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "security-type-category": "категория",
+    "security-type-namespace": "именно пространство",
+    "restriction-read": "Прочети"
+}

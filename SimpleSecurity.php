@@ -15,6 +15,7 @@ if( version_compare( $wgVersion, '1.17.0' ) < 0 ) die( 'This version of SimpleSe
  * Version 4.3 - Mar 2009 - bug fixes and split out to separate class and i18n files
  * Version 4.5 - Sep 2010 - File security started again - by Josh Adams
  * Version 5.0 - Jun 2011 - major changes to the DB hooking method to handle changes in MediaWiki 1.17
+ * Version 5.2.0 - Migration of translations to JSON.
  *
  * @file
  * @ingroup Extensions
@@ -22,10 +23,11 @@ if( version_compare( $wgVersion, '1.17.0' ) < 0 ) die( 'This version of SimpleSe
  * @copyright © 2007-2011 Aran Dunkley
  * @license GNU General Public Licence 2.0 or later
  */
-define( 'SIMPLESECURITY_VERSION', '5.1.0, 2012-01-19' );
+define( 'SIMPLESECURITY_VERSION', '5.2.0, 2014-04-01' );
 
 # Load the SimpleSecurity class and messages
 $dir = dirname( __FILE__ ) . '/';
+$wgMessagesDirs['SimpleSecurity'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['SimpleSecurity'] = $dir . 'SimpleSecurity.i18n.php';
 $wgExtensionMessagesFiles['SimpleSecurityMagic'] = $dir . 'SimpleSecurity.i18n.magic.php';
 $wgAutoloadClasses['SimpleSecurity'] = $dir . 'SimpleSecurity_body.php';
@@ -92,7 +94,7 @@ function wfSimpleSecurityMessagesPreLoad( $title, &$text ) {
 	}
 
 	if( isset( $wgSecurityExtraGroups[$key] ) ) {
-		$name = empty( $wgSecurityExtraGroups[$key] ) ? ucfirst( $key ) : $wgSecurityExtraGroups[$key];	
+		$name = empty( $wgSecurityExtraGroups[$key] ) ? ucfirst( $key ) : $wgSecurityExtraGroups[$key];
 	} else {
 		$lower = array_map( 'strtolower', $wgSecurityExtraGroups );
 		$nkey = array_search( strtolower( $key ), $lower, true );
@@ -110,5 +112,3 @@ function wfSimpleSecurityMessagesPreLoad( $title, &$text ) {
 
 	return true;
 }
-
-

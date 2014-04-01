@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fryed-peach",
+            "Purodha",
+            "Shirayuki",
+            "Siebrand",
+            "Umherirrender"
+        ]
+    },
+    "security": "{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}}!}}",
+    "security-desc": "{{desc|name=Simple Security|url=http://www.mediawiki.org/wiki/Extension:SimpleSecurity}}",
+    "security-logentry": "{{notranslate}}",
+    "badaccess-read": "Used as warning if unreadable. Parameters:\n* $1 - a page title that is restricted to access",
+    "security-info": "Parameters:\n* $1 - {{msg-mw|Security-info-toggle}} with a link",
+    "security-inforestrict": "Parameters:\n* $1 - an action name\n* $2 - user group name(s)",
+    "security-desc-LS": "Parameters:\n* $1 - {{msg-mw|security-type-category}} or {{msg-mw|security-type-namespace}}\n* $2 - the name of a category or namespace",
+    "security-manygroups": "Used to show list of groups. $2 is tail of the group, and $1 is everything else.\n* $1 - list of groups (1 or more groups, comma separated)\n* $2 - tail of the group list\nIf number of groups is 1, not-localized string \"the '''$1''' group\" is used instead.",
+    "security-type-category": "{{Identical|Category}}",
+    "security-type-namespace": "{{Identical|Namespace}}",
+    "security-restricttogroup": "Parameters:\n* $1 - extra group name",
+    "restriction-read": "{{Identical|Read}}"
+}
