@@ -1,13 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "Veeven"
-        ]
-    },
-    "security": "భద్రతా చిట్టా",
-    "security-logpage": "భద్రతా చిట్టా",
-    "security-info-toggle": "భద్రతా నియంత్రణలు",
-    "security-desc-LS": "(ఈ పుట \"$2 $1\"లో ఉన్నందున వర్తిస్తుంది)",
-    "security-type-category": "వర్గం",
-    "security-type-namespace": "పేరుబరి"
+	"@metadata": {
+		"authors": [
+			"Veeven"
+		]
+	}
 }

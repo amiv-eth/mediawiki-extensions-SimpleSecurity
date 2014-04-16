@@ -1,9 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "Crazymadlover"
-        ]
-    },
-    "security-type-category": "κατηγορία",
-    "security-type-namespace": "Ὀνοματεῖον"
+	"@metadata": {
+		"authors": [
+			"Crazymadlover"
+		]
+	}
 }

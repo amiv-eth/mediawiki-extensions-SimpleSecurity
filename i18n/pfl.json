@@ -1,8 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "Manuae"
-        ]
-    },
-    "restriction-read": "Lese"
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	}
 }

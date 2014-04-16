@@ -1,11 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Marmase",
-            "Mirzali"
-        ]
-    },
-    "security-type-category": "kategoriye",
-    "security-type-namespace": "cayê namey",
-    "restriction-read": "Bıwane"
+	"@metadata": {
+		"authors": [
+			"Marmase",
+			"Mirzali"
+		]
+	}
 }

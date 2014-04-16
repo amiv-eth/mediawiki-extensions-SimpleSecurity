@@ -1,9 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "Умар"
-        ]
-    },
-    "security-info": "ХӀокху агӀона ю $1",
-    "security-type-category": "категореш"
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	}
 }

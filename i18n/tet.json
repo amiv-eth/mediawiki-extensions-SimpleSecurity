@@ -1,8 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "MF-Warburg"
-        ]
-    },
-    "security-type-category": "kategoria"
+	"@metadata": {
+		"authors": [
+			"MF-Warburg"
+		]
+	}
 }

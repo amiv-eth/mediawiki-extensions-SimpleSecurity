@@ -1,10 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "David1010"
-        ]
-    },
-    "security-type-category": "კატეგორია",
-    "security-type-namespace": "სახელთა სივრცე",
-    "restriction-read": "კითხვა"
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	}
 }

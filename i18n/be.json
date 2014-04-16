@@ -1,8 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "Тест"
-        ]
-    },
-    "security-type-category": "катэгорыя"
+	"@metadata": {
+		"authors": [
+			"Тест"
+		]
+	}
 }

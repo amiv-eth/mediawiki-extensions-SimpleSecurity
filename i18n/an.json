@@ -1,8 +1,7 @@
 {
-    "@metadata": {
-        "authors": [
-            "Juanpabl"
-        ]
-    },
-    "security-type-namespace": "espacio de nombres"
+	"@metadata": {
+		"authors": [
+			"Juanpabl"
+		]
+	}
 }
