@@ -16,13 +16,13 @@
 	"security-info": "Det finns $1 på denna sida",
 	"security-info-toggle": "säkerhetsbegränsningar",
 	"security-inforestrict": "$1 är begränsad till $2",
-	"security-desc-LS": "(gäller eftersom denna sida är i \"$2 $1\")",
+	"security-desc-LS": "(gäller eftersom denna sida är i \"$2\"-$1)",
 	"security-desc-PR": "(satt från \"skydda\"-fliken)",
 	"security-infosysops": "Inga restriktioner är aktiva eftersom du tillhör gruppen \"Administratörer\"",
 	"security-manygroups": "grupperna $1 och $2",
 	"security-unchain": "Ändra åtgärderna individuellt",
-	"security-type-category": "kategori",
-	"security-type-namespace": "namnrymd",
+	"security-type-category": "kategorin",
+	"security-type-namespace": "namnrymden",
 	"security-restricttogroup": "Tillgång till innehållet är begränsat till medlemmar av \"$1\"",
 	"restriction-read": "Läs"
 }
