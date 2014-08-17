@@ -4,9 +4,9 @@
  */
 class SimpleSecurity {
 
-	var $guid  = '';
-	var $cache = array();
-	var $info  = array(
+	public $guid  = '';
+	public $cache = array();
+	public $info  = array(
 		'LS' => array(), # security info for rules from LocalSettings ($wgPageRestrictions)
 		'PR' => array(), # security info for rules from protect tab
 		'CR' => array()  # security info for rules which are currently in effect
