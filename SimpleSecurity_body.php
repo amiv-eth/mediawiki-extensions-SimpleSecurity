@@ -350,6 +350,7 @@ class SimpleSecurity {
 					}
 
 					if ( $updateInfo ) {
+						# messages: security-type-category, security-type-namespace
 						$this->info['LS'][] = array( $action, $reqgroups, wfMsg( 'security-desc-LS', wfMsg( 'security-type-' . strtolower( $type ) ), $data ) );
 					}
 
