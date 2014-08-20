@@ -3,5 +3,8 @@
 		"authors": [
 			"Умар"
 		]
-	}
+	},
+	"security-info": "ХӀокху агӀона ю $1",
+	"security-type-category": "категори",
+	"restriction-read": "Ешар"
 }
