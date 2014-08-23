@@ -4,7 +4,13 @@
 			"Mark85296341",
 			"Oapbtommy",
 			"Shirayuki",
-			"Wrightbus"
+			"Wrightbus",
+			"Liuxinyu970226"
 		]
-	}
+	},
+	"security": "安全日誌",
+	"security-logpage": "安全日誌",
+	"security-type-category": "分類",
+	"security-type-namespace": "名字空間",
+	"restriction-read": "讀"
 }
