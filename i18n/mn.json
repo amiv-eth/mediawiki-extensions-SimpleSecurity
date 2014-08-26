@@ -1,7 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chinneeb"
+			"Chinneeb",
+			"Wisdom"
 		]
-	}
+	},
+	"security-type-category": "бүлэг",
+	"security-type-namespace": "Хуудсын төрөл"
 }
