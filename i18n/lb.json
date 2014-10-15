@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Les Meloures"
 		]
 	},
 	"security": "Sécherheets-Logbuch",
@@ -14,7 +15,7 @@
 	"security-inforestrict": "$1 ass limitéiert op $2",
 	"security-desc-LS": "(gëllt well dës Säit an der $1 \"$2\" ass)",
 	"security-desc-PR": "(agestallt vum Tab \"Protectioun\")",
-	"security-infosysops": "Keng Limitatioune gëlle fir Iech wëll Dir e Member vum Grupp vun den '''Administrateure''' sidd",
+	"security-infosysops": "Et gëlle keng Limitatioune fir Iech wëll Dir e Member vun der Grupp vun den '''Administrateure''' sidd",
 	"security-manygroups": "Gruppen $1 a(n) $2",
 	"security-unchain": "Aktiounen individuell änneren",
 	"security-type-category": "d'Kategorie",
