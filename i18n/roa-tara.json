@@ -3,5 +3,9 @@
 		"authors": [
 			"Joetaras"
 		]
-	}
+	},
+	"security": "Archivije de securezze",
+	"security-logpage": "Archivije de securezze",
+	"security-type-category": "categorije",
+	"security-type-namespace": "namespace"
 }

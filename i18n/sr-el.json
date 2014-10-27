@@ -1,3 +1,7 @@
 {
-	"@metadata": []
+	"@metadata": [],
+	"security-info-toggle": "sigurnosna ograničenja",
+	"security-manygroups": "grupe $1 i $2",
+	"security-type-category": "kategorija",
+	"security-type-namespace": "imenski prostor"
 }

@@ -4,5 +4,8 @@
 			"Marmase",
 			"Mirzali"
 		]
-	}
+	},
+	"security-type-category": "kategoriye",
+	"security-type-namespace": "heruna namey",
+	"restriction-read": "Bıwane"
 }

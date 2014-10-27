@@ -3,5 +3,8 @@
 		"authors": [
 			"Ahmed-Najib-Biabani-Ibrahimkhel"
 		]
-	}
+	},
+	"security-type-category": "وېشنيزه",
+	"security-type-namespace": "نوم-تشيال",
+	"restriction-read": "لوستل"
 }

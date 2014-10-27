@@ -3,5 +3,8 @@
 		"authors": [
 			"Basharh"
 		]
-	}
+	},
+	"security": "ܣܓܠܐ ܕܫܝܢܐ",
+	"security-type-category": "ܣܕܪܐ",
+	"security-type-namespace": "ܚܩܠܐ"
 }

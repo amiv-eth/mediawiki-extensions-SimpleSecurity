@@ -3,5 +3,6 @@
 		"authors": [
 			"Dark Eagle"
 		]
-	}
+	},
+	"security-type-namespace": "vuordu pluots"
 }

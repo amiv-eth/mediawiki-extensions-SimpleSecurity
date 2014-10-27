@@ -3,5 +3,8 @@
 		"authors": [
 			"පසිඳු කාවින්ද"
 		]
-	}
+	},
+	"security-type-category": "زمرہ",
+	"security-type-namespace": "نیم سپیس",
+	"restriction-read": "پڑھیں"
 }

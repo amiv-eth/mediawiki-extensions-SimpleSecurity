@@ -3,5 +3,7 @@
 		"authors": [
 			"Gazeb"
 		]
-	}
+	},
+	"security-type-category": "катеґорія",
+	"security-type-namespace": "простор назв"
 }

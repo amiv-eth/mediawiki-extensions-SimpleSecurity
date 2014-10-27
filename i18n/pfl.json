@@ -3,5 +3,6 @@
 		"authors": [
 			"Manuae"
 		]
-	}
+	},
+	"restriction-read": "Lese"
 }

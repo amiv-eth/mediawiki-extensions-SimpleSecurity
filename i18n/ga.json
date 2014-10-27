@@ -3,5 +3,8 @@
 		"authors": [
 			"පසිඳු කාවින්ද"
 		]
-	}
+	},
+	"security-type-category": "catagóir",
+	"security-type-namespace": "Ainmspás",
+	"restriction-read": "Léigh"
 }
