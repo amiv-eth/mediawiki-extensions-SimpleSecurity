@@ -6,6 +6,7 @@
 	},
 	"security": "Archivije de securezze",
 	"security-logpage": "Archivije de securezze",
-	"security-type-category": "categorije",
-	"security-type-namespace": "namespace"
+	"security-type-category": "'a categorije",
+	"security-type-namespace": "'u namespace",
+	"restriction-read": "Ligge"
 }
