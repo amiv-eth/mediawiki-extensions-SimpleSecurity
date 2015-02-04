@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Elisardojm"
 		]
 	},
 	"security": "Rexistro de seguridade",
@@ -17,8 +18,8 @@
 	"security-infosysops": "Non hai restricións en vigor porque vostede é membro do grupo dos \"administradores\"",
 	"security-manygroups": "grupos $1 e $2",
 	"security-unchain": "Modificar as accións individualmente",
-	"security-type-category": "categoría",
-	"security-type-namespace": "espazo de nomes",
+	"security-type-category": "a categoría",
+	"security-type-namespace": "o espazo de nomes",
 	"security-restricttogroup": "Acceso ao contido restrinxido aos membros de \"$1\"",
 	"restriction-read": "Ler"
 }
