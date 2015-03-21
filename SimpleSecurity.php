@@ -31,6 +31,9 @@ $wgMessagesDirs['SimpleSecurity'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['SimpleSecurity'] = $dir . 'SimpleSecurity.i18n.php';
 $wgExtensionMessagesFiles['SimpleSecurityMagic'] = $dir . 'SimpleSecurity.i18n.magic.php';
 $wgAutoloadClasses['SimpleSecurity'] = $dir . 'SimpleSecurity_body.php';
+$wgAutoloadClasses['LBFactorySimpleSecurity'] = $dir . 'SimpleSecurity_body.php';
+$wgAutoloadClasses['LoadBalancerSimpleSecurity'] = $dir . 'SimpleSecurity_body.php';
+$wgAutoloadClasses['LBFactory_SimpleSecurity'] = $dir . 'SimpleSecurity_body.php';
 
 # Global security settings
 $wgSecurityLogActions           = array( 'edit', 'download' );  # Actions that should be logged
