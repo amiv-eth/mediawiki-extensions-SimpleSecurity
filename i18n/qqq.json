@@ -10,7 +10,7 @@
 		]
 	},
 	"security": "{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}}!}}",
-	"security-desc": "{{desc|name=Simple Security|url=http://www.mediawiki.org/wiki/Extension:SimpleSecurity}}",
+	"security-desc": "{{desc|name=Simple Security|url=https://www.mediawiki.org/wiki/Extension:SimpleSecurity}}",
 	"security-logentry": "{{notranslate}}",
 	"badaccess-read": "Used as warning if unreadable. Parameters:\n* $1 - a page title that is restricted to access",
 	"security-info": "Parameters:\n* $1 - {{msg-mw|Security-info-toggle}} with a link",

@@ -21,7 +21,7 @@
 	"security-desc-PR": "(gesetzt über den Reiter „Seitenschutz“)",
 	"security-infosysops": "Für dich sind keine Einschränkungen aktiv, weil du der Gruppe „Administratoren“ angehörst.",
 	"security-manygroups": "Gruppen $1 und $2",
-	"security-unchain": "Ändere Aktionen einzeln",
+	"security-unchain": "Aktionen einzeln ändern",
 	"security-type-category": "in der Kategorie",
 	"security-type-namespace": "im Namensraum",
 	"security-restricttogroup": "Zugriff auf Inhalte, die auf Benutzer der Gruppe „$1“ beschränkt sind",
