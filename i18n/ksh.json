@@ -5,7 +5,7 @@
 		]
 	},
 	"security": "Et Logboch övver de Beschrängkunge för et Aanloore",
-	"security-desc": "Määt der Siggeschotz en MediaWiki esu jruuß,\ndat mer och et Sigge-Aanloore ennschrängke kann.",
+	"security-desc": "Määt der Siggeschotz em MehdijaWikki esu jruhß, dat mer och et Sigge-Aanlohre ennschrängke kann.",
 	"security-logpage": "Et Logboch övver de Beschrängkunge för et Aanloore",
 	"security-logpagetext": "Dat hee es et Logboch met de Akßjuhne, di dat [http://www.mediawiki.org/wiki/Extension:SimpleSecurity Zosatzprojramm <i lang=\"en\">SimpleSecurity</i>] afjeblock hät.",
 	"badaccess-read": "Opjepaß: De Sigg „$1“ jeiht noh hee, ävver Do häs nit jenooch Rääschde för der Zohjreff doh drop.",
