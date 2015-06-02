@@ -3,13 +3,14 @@
 		"authors": [
 			"Armin1392",
 			"Mjbmr",
-			"Alirezaaa"
+			"Alirezaaa",
+			"Dalba"
 		]
 	},
 	"security": "سیاههٔ امنیتی",
 	"security-desc": "گسترش حمایت صفحه مدیاویکی برای محدود کردن مشاهده محتوای صفحه اجازه می‌دهد",
 	"security-logpage": "سیاههٔ امنیتی",
-	"security-logpagetext": "این سیاهه عملیات مسدود شده توسط [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity extension] است.",
+	"security-logpagetext": "این سیاهه‌ای از عملیات جلوگیری‌شده توسط [http://www.mediawiki.org/wiki/Extension:SimpleSecurity افزونهٔ SimpleSecurity] است.",
 	"badaccess-read": "'''هشدار:''' \"$1\" به اینجا ارجاع شده، اما شما مجوز کافی برای دسترسی به آن را ندارید.",
 	"security-info": "$1 در این صفحه وجود دارد",
 	"security-info-toggle": "محدودیت‌های امنیتی",
