@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Siebrand",
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Rangekill"
 		]
 	},
 	"security": "Paginabeveiligingslogboek",
@@ -13,7 +14,7 @@
 	"security-info": "Er zijn $1 voor deze pagina",
 	"security-info-toggle": "beveiligingsbeperkingen",
 	"security-inforestrict": "$1 is alleen mogelijk door $2",
-	"security-desc-LS": "(van toepassing omdat deze pagina is zich in de \"$2 $1\" bevindt)",
+	"security-desc-LS": "(dit is van toepassing omdat deze pagina is $1 \"$2\")",
 	"security-desc-PR": "(ingesteld vanuit de functie \"beveiligen\")",
 	"security-infosysops": "Beperkingen zijn niet van kracht zijn omdat u lid bent van de groep beheerders",
 	"security-manygroups": "groepen $1 en $2",
