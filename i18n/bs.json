@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"CERminator"
+			"CERminator",
+			"Srdjan m"
 		]
 	},
 	"security": "Zapisnik sigurnosti",
@@ -20,5 +21,5 @@
 	"security-type-category": "kategorija",
 	"security-type-namespace": "imenski prostor",
 	"security-restricttogroup": "Pristup sadržaju onemogućen članovima \"$1\"",
-	"restriction-read": "Čitanje"
+	"restriction-read": "Čitaj"
 }
