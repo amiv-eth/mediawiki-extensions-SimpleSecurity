@@ -20,7 +20,7 @@
 	"security-inforestrict": "$1 está restringido a $2",
 	"security-desc-LS": "(aplica porque esta página está en $1 «$2»)",
 	"security-desc-PR": "(aplicar desde la pestaña \"proteger\")",
-	"security-infosysops": "No tiene restricciones activas porque Ud. es miembro del grupo \"administradores\".",
+	"security-infosysops": "No tienes restricciones activas porque eres miembro del grupo \"administradores\".",
 	"security-manygroups": "grupos $1 y $2",
 	"security-unchain": "modificar acciones individualmente",
 	"security-type-category": "la categoría",
