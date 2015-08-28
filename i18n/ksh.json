@@ -9,7 +9,7 @@
 	"security-logpage": "Et Logbohch övver de Beschrängkonge för et Aanlohre",
 	"security-logpagetext": "Dat heh es et Logbohch met de Akßjuhne, di dat [http://www.mediawiki.org/wiki/Extension:SimpleSecurity Zosatzprojramm <i lang=\"en\">SimpleSecurity</i>] afjeblock hät.",
 	"badaccess-read": "Opjepaß: De Sigg „$1“ jeiht noh hee, ävver Do häs nit jenooch Rääschde för der Zohjreff doh drop.",
-	"security-info": "Mer han $1 op dä Sigg hee",
+	"security-info": "Mer han $1 op dä Sigg heh",
 	"security-info-toggle": "Beschrängkunge för et Aanloore",
 	"security-inforestrict": "$1 es beschrängk op $2",
 	"security-desc-LS": "(jelt, weil de Sigg en $1 „$2“ es)",
