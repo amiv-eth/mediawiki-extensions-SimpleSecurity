@@ -454,12 +454,6 @@ class LoadBalancerSimpleSecurity extends LoadBalancer {
 			wfDebug( "Connection failed to $host $dbname.\n" );
 		}
 		$db->setLBInfo( $server );
-		if ( isset( $server['fakeSlaveLag'] ) ) {
-			$db->setFakeSlaveLag( $server['fakeSlaveLag'] );
-		}
-		if ( isset( $server['fakeMaster'] ) ) {
-			$db->setFakeMaster( true );
-		}
 		return $db;
 	}
 }
