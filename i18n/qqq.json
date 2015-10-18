@@ -6,7 +6,8 @@
 			"Shirayuki",
 			"Siebrand",
 			"Umherirrender",
-			"Lokal Profil"
+			"Lokal Profil",
+			"Aursani"
 		]
 	},
 	"security": "{{doc-important|The translation for this message cannot be equal to that of {{msg-mw|protectlogpage}}!}}",
@@ -20,5 +21,5 @@
 	"security-type-category": "Used as <code>$1</code> in {{msg-mw|Security-desc-LS}}\n{{Identical|Category}}",
 	"security-type-namespace": "Used as <code>$1</code> in {{msg-mw|Security-desc-LS}}\n{{Identical|Namespace}}",
 	"security-restricttogroup": "Parameters:\n* $1 - extra group name",
-	"restriction-read": "{{Identical|Read}}"
+	"restriction-read": "{{Identical|پڙهو}}"
 }
