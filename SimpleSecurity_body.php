@@ -123,10 +123,10 @@ class SimpleSecurity {
 				foreach ( $rules as $info ) {
 					list( $action, $groups, $comment ) = $info;
 					$gtext = $this->groupText( $groups );
-					$itext .= "<li>" . wfMsg( 'security-inforestrict', "<b>$action</b>", $gtext ) . " $comment</li>\n";
+					$itext .= "<li>" . $out->msg( 'security-inforestrict' )->rawParams( array( "<b>$action</b>", $gtext ) )->escaped() . " $comment</li>\n";
 				}
 			}
-			if ( $sysop ) $itext .= "<li>" . wfMsg( 'security-infosysops' ) . "</li>\n";
+			if ( $sysop ) $itext .= "<li>" . $out->msg( 'security-infosysops' )->escaped() . "</li>\n";
 			$itext .= "</ul>\n";
 
 			# Add some javascript to allow toggling the security-info
@@ -138,9 +138,9 @@ class SimpleSecurity {
 			);
 
 			# Add info-toggle before title and hidden info after title
-			$link = "<a href='javascript:'>" . wfMsg( 'security-info-toggle' ) . "</a>";
+			$link = "<a href='javascript:'>" . $out->msg( 'security-info-toggle' )->escaped() . "</a>";
 			$link = "<span onClick='toggleSecurityInfo()'>$link</span>";
-			$info = "<div id='security-info-toggle'>" . wfMsg( 'security-info', $link ) . "</div>\n";
+			$info = "<div id='security-info-toggle'>" . $out->msg( 'security-info', $link )->escaped() . "</div>\n";
 			$text = "$info<div id='security-info' style='display:none'>$itext</div>\n$text";
 		}
 
@@ -203,7 +203,7 @@ class SimpleSecurity {
 		# - allows rules in protection tab to override those from $wgPageRestrictions
 		if ( !$title->mRestrictionsLoaded ) $title->loadRestrictions();
 		foreach ( $title->mRestrictions as $a => $g ) if ( count( $g ) ) {
-			$this->info['PR'][] = array( $a, $g, wfMsg( 'security-desc-PR' ) );
+			$this->info['PR'][] = array( $a, $g, wfMessage( 'security-desc-PR' )->text() );
 			if ( array_intersect( $groups, $g ) ) $rights[] = $a;
 		}
 
@@ -283,7 +283,7 @@ class SimpleSecurity {
 		$whitelist = $title->getRestrictions( 'read' );
 		if ( count( $whitelist ) > 0 && !count( array_intersect( $whitelist, $groups ) ) > 0 ) $readable = false;
 
-		$error = $readable ? "" : wfMsg( 'badaccess-read', $title->getPrefixedText() );
+		$error = $readable ? "" : wfMessage( 'badaccess-read', $title->getPrefixedText() )->text();
 		$this->cache[$key] = array( $readable, $error );
 		return $readable;
 	}
@@ -297,7 +297,7 @@ class SimpleSecurity {
 		$gt = array_pop( $gl );
 		// FIXME: use $wgLang->commafy()
 		// FIXME: hard coded bold. Not all scripts use this. Needs i18n support.
-		if ( count( $groups ) > 1 ) $gt = wfMsg( 'security-manygroups', "<b>" . join( "</b>, <b>", $gl ) . "</b>", "<b>$gt</b>" );
+		if ( count( $groups ) > 1 ) $gt = wfMessage( 'security-manygroups', "<b>" . join( "</b>, <b>", $gl ) . "</b>", "<b>$gt</b>" )->text();
 		else $gt = "the <b>$gt</b> group"; // FIXME: hard coded text. Needs i18n support.
 		return $gt;
 	}
@@ -351,12 +351,11 @@ class SimpleSecurity {
 
 					if ( $updateInfo ) {
 						# messages: security-type-category, security-type-namespace
-						$this->info['LS'][] = array( $action, $reqgroups, wfMsg( 'security-desc-LS', wfMsg( 'security-type-' . strtolower( $type ) ), $data ) );
+						$this->info['LS'][] = array( $action, $reqgroups, wfMessage( 'security-desc-LS', wfMessage( 'security-type-' . strtolower( $type ) )->text(), $data )->text() );
 					}
 
 					if ( !in_array( 'sysop', $groups ) && !array_intersect( $groups, $reqgroups ) ) {
 						foreach ( $rights as $i => $right ) if ( $right === $action ) unset( $rights[$i] );
-						# $this->info['CR'][] = array($action, $reqgroups, wfMsg('security-desc-CR'));
 					}
 				}
 			}

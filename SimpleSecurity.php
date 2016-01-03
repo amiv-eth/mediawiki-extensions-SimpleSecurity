@@ -110,7 +110,7 @@ function wfSimpleSecurityMessagesPreLoad( $title, &$text ) {
 	if( $type == 'level' ) {
 		$text = $name;
 	} else {
-		$text = wfMsg( 'security-restricttogroup', $name );
+		$text = wfMessage( 'security-restricttogroup', $name )->text();
 	}
 
 	return true;
