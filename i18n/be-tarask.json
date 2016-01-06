@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Jim-by"
+			"Jim-by",
+			"Red Winged Duck"
 		]
 	},
 	"security": "Журнал бясьпекі",
@@ -13,7 +14,7 @@
 	"security-info": "Гэтая старонка мае $1",
 	"security-info-toggle": "абмежаваньні бясьпекі",
 	"security-inforestrict": "$1 забаронены для $2",
-	"security-desc-LS": "(адпавядае, таму што гэтая старонка ў '''$2 $1''')''",
+	"security-desc-LS": "(дастасаванае, бо гэтая старонка знаходзіцца ў $1 «$2»)",
 	"security-desc-PR": "(устаноўленая з '''закладкі абароны''')''",
 	"security-infosysops": "Ніякія абмежаваньні ня будуць дзейнічаць, таму што Вы зьяўляецеся '''адміністратарам'''",
 	"security-manygroups": "групы $1 і $2",
