@@ -106,8 +106,8 @@ class SimpleSecurity {
 	 * Also make restricted pages not archive by robots
 	 */
 	public function onOutputPageBeforeHTML( &$out, &$text ) {
-		global $wgUser, $wgTitle;
-		$title = $wgTitle;
+		global $wgUser;
+		$title = $out->getTitle();
 
 		# Render info
 		if ( is_object( $title ) && $title->exists() && count( $this->info['LS'] ) + count( $this->info['PR'] ) ) {
@@ -179,11 +179,11 @@ class SimpleSecurity {
 	 * - clears and populates the info array
 	 */
 	public function onUserGetRights( $user, &$rights ) {
-		global $wgGroupPermissions, $wgOut, $wgTitle, $wgRequest, $wgPageRestrictions;
+		global $wgGroupPermissions, $wgOut, $wgRequest, $wgPageRestrictions;
 
 		# Hack to prevent specialpage operations on unreadable pages
-		if ( !is_object( $wgTitle ) ) return true;
-		$title = $wgTitle;
+		if ( !is_object( $wgOut ) ) return true;
+		$title = $wgOut->getTitle();
 		$ns = $title->getNamespace();
 		if ( $ns == NS_SPECIAL ) {
 			list( $name, $par ) = explode( '/', $title->getDBkey() . '/', 2 );
