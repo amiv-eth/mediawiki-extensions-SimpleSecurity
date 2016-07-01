@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Marmase",
-			"Mirzali"
+			"Mirzali",
+			"Kumkumuk"
 		]
 	},
 	"security-type-category": "kategoriye",
 	"security-type-namespace": "heruna nameyi",
-	"restriction-read": "Bıwane"
+	"restriction-read": "Bıwan"
 }
