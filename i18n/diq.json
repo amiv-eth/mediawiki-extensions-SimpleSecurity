@@ -6,9 +6,9 @@
 			"Kumkumuk"
 		]
 	},
-	"security": "Qeydë itimadi",
-	"security-manygroups": "gruba $1 u $2",
-	"security-type-category": "kategori",
+	"security": "Qeydê itımadi",
+	"security-manygroups": "grubê $1 u $2",
+	"security-type-category": "kategoriye",
 	"security-type-namespace": "heruna nameyi",
 	"restriction-read": "Bıwane"
 }
