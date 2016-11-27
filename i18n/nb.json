@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nghtwlkr",
-			"Simny"
+			"Simny",
+			"Jon Harald Søby"
 		]
 	},
 	"security": "Sikkerhetslogg",
@@ -13,13 +14,13 @@
 	"security-info": "Det finnes $1 på denne siden",
 	"security-info-toggle": "sikkerhetsrelaterte begrensninger",
 	"security-inforestrict": "$1 er avgrenset til $2",
-	"security-desc-LS": "(gjelder fordi denne siden er i «$2 $1»)",
+	"security-desc-LS": "(gjelder fordi denne siden er i $1 «$2»)",
 	"security-desc-PR": "(kan settes fra «beskytt»-fanen)",
 	"security-infosysops": "Ingen restriksjoner er virksomme fordi du er medlem av administratorgruppen",
 	"security-manygroups": "gruppene $1 og $2",
 	"security-unchain": "Endre handligene individuelt",
-	"security-type-category": "kategori",
-	"security-type-namespace": "navnerom",
+	"security-type-category": "kategorien",
+	"security-type-namespace": "navnerommet",
 	"security-restricttogroup": "Tilgang til innholdet er begrenset til medlemmer av «$1»",
 	"restriction-read": "Les"
 }
