@@ -21,6 +21,6 @@
 	"security-unchain": "개별적으로 명령을 수정하기",
 	"security-type-category": "분류",
 	"security-type-namespace": "이름공간",
-	"security-restricttogroup": "\"$1\"의 구성원이 제한된 내용에 접근",
+	"security-restricttogroup": "\"$1\"의 회원이 제한된 내용에 접근",
 	"restriction-read": "읽기"
 }
