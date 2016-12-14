@@ -179,19 +179,24 @@ class SimpleSecurity {
 	 * - clears and populates the info array
 	 */
 	public function onUserGetRights( $user, &$rights ) {
-		global $wgGroupPermissions, $wgOut, $wgRequest, $wgPageRestrictions;
+		global $wgOut, $wgRequest;
 
 		# Hack to prevent specialpage operations on unreadable pages
 		if ( !is_object( $wgOut ) ) return true;
 		$title = $wgOut->getTitle();
+		if ( !is_object( $title ) ) return true;
 		$ns = $title->getNamespace();
 		if ( $ns == NS_SPECIAL ) {
 			list( $name, $par ) = explode( '/', $title->getDBkey() . '/', 2 );
-			if ( $par ) $title = Title::newFromText( $par );
-			elseif ( $wgRequest->getVal( 'target' ) )   $title = Title::newFromText( $wgRequest->getVal( 'target' ) );
-			elseif ( $wgRequest->getVal( 'oldtitle' ) ) $title = Title::newFromText( $wgRequest->getVal( 'oldtitle' ) );
+			if ( $par ) {
+				$title = Title::newFromText( $par );
+			} elseif ( $wgRequest->getVal( 'target' ) ) {
+				$title = Title::newFromText( $wgRequest->getVal( 'target' ) );
+			} elseif ( $wgRequest->getVal( 'oldtitle' ) ) {
+				$title = Title::newFromText( $wgRequest->getVal( 'oldtitle' ) );
+			}
 		}
-		if ( !is_object( $title ) ) return true;   # If still no usable title bail
+		if ( !is_object( $title ) ) return true; # If still no usable title bail
 
 		$groups = $user->getEffectiveGroups();
 
@@ -429,7 +434,7 @@ class_alias( 'LBFactorySimpleSecurity', 'LBFactory_SimpleSecurity' );
  */
 class LoadBalancerSimpleSecurity extends LoadBalancer {
 
-	function reallyOpenConnection( $server, $dbNameOverride = false ) {
+	function reallyOpenConnection( array $server, $dbNameOverride = false ) {
 		if( !is_array( $server ) ) {
 			throw new MWException( 'You must update your load-balancing configuration. See DefaultSettings.php entry for $wgDBservers.' );
 		}
