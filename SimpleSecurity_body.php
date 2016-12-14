@@ -48,7 +48,8 @@ class SimpleSecurity {
 		# Add extra available groups if $wgSecurityGroupsArticle is set
 		if ( $wgSecurityGroupsArticle ) {
 			$groups = new Article( Title::newFromText( $wgSecurityGroupsArticle, NS_MEDIAWIKI ) );
-			if ( preg_match_all( "/^\*?\s*(.+?)\s*(\|\s*(.+))?$/m", $groups->getContent(), $match ) ) {
+			$groupsContent = $groups->getContentObject();
+			if ( preg_match_all( "/^\*?\s*(.+?)\s*(\|\s*(.+))?$/m", ContentHandler::getContentText( $groupsContent ), $match ) ) {
 				foreach( $match[1] as $i => $k ) {
 					$v = $match[3][$i];
 					if ( $v ) $wgSecurityExtraGroups[strtolower( $k )] = $v;
