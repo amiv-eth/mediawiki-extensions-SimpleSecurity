@@ -12,13 +12,13 @@
 	"security-info": "Iste pagina es subjecte a $1",
 	"security-info-toggle": "restrictiones de securitate",
 	"security-inforestrict": "$1 es restringite a $2",
-	"security-desc-LS": "(se applica proque iste pagina es in le ''$2 $1'')",
+	"security-desc-LS": "(se applica perque iste pagina es in $1 \"$2\")",
 	"security-desc-PR": "(definite in le scheda \"proteger\")",
 	"security-infosysops": "Nulle restriction es in vigor proque tu es membro del gruppo \"administratores\"",
 	"security-manygroups": "gruppos $1 e $2",
 	"security-unchain": "Modificar actiones individualmente",
-	"security-type-category": "categoria",
-	"security-type-namespace": "spatio de nomines",
+	"security-type-category": "le categoria",
+	"security-type-namespace": "le spatio de nomines",
 	"security-restricttogroup": "Accesso al contento restringite al membros de \"$1\"",
 	"restriction-read": "Leger"
 }
