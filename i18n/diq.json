@@ -4,12 +4,13 @@
 			"Marmase",
 			"Mirzali",
 			"Kumkumuk",
-			"Asmen"
+			"Asmen",
+			"Gırd"
 		]
 	},
 	"security": "Qeydê itımadi",
 	"security-manygroups": "grubê $1 u $2",
 	"security-type-category": "kategoriye",
-	"security-type-namespace": "heruna nameyi",
+	"security-type-namespace": "heruna namey",
 	"restriction-read": "Bıwane"
 }
