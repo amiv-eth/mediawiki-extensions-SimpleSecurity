@@ -125,7 +125,7 @@ class SimpleSecurity {
 					list( $action, $groups, $comment ) = $info;
 					foreach ($wgExtraBanner as $banner) {
 						if ($action == $banner['action'] && in_array($banner['group'], $groups)) {
-							$bannerCode .= $banner['code'] .'\n';
+							$bannerCode .= $banner['code'];
 						}
 					}
 					$gtext = $this->groupText( $groups );
