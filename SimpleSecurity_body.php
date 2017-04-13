@@ -119,9 +119,15 @@ class SimpleSecurity {
 
 			# Build restrictions text
 			$itext = "<ul>\n";
+			$banner = "";
 			foreach ( $this->info as $source => $rules ) if ( !( $sysop && $source === 'CR' ) ) {
 				foreach ( $rules as $info ) {
 					list( $action, $groups, $comment ) = $info;
+					foreach ($wgExtraBanner as $banner) {
+						if ($action = $banner['action'] && in_array($banner['group'], $groups)) {
+							$banner .= $banner['code'] .'\n';
+						}
+					}
 					$gtext = $this->groupText( $groups );
 					$itext .= "<li>" . $out->msg( 'security-inforestrict' )->rawParams( array( "<b>$action</b>", $gtext ) )->escaped() . " $comment</li>\n";
 				}
@@ -154,7 +160,7 @@ class SimpleSecurity {
 			# Add info-toggle before title and hidden info after title
 			$link = "<span>" . $out->msg( 'security-info-toggle' )->escaped() . "</span>";
 			$info = "<div id='security-info-toggle'>\n" . $out->msg( 'security-info', $link ) . "</div>\n";
-			$text = "$info<div id='security-info' style='display:none'>$itext</div>\n$text";
+			$text = "$banner\n$info<div id='security-info' style='display:none'>$itext</div>\n$text";
 		}
 
 		return true;
