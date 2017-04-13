@@ -131,16 +131,29 @@ class SimpleSecurity {
 
 			# Add some javascript to allow toggling the security-info
 			$out->addScript( "<script type='text/javascript'>
+				document.getElementById(\"security-info-toggle\").getElementsByTagName(\"span\")[0].addEventListener(\"click\", toggleSecurityInfo);
 				function toggleSecurityInfo() {
 					var info = document.getElementById('security-info');
 					info.style.display = info.style.display ? '' : 'none';
 				}</script>"
 			);
+			
+			# Add some CSS to style the security info
+			$out->addInlineStyle( "
+				#security-info-toggle > span {
+					font-weight:600;
+					cursor:pointer;
+					color:#00F;
+					text-decoration:none;
+				}
+				#security-info-toggle > span:hover {
+					text-decoration:underline;
+				}"
+			);
 
 			# Add info-toggle before title and hidden info after title
-			$link = "<a href='javascript:'>" . $out->msg( 'security-info-toggle' )->escaped() . "</a>";
-			$link = "<span onClick='toggleSecurityInfo()'>$link</span>";
-			$info = "<div id='security-info-toggle'>" . $out->msg( 'security-info', $link )->escaped() . "</div>\n";
+			$link = "<span>" . $out->msg( 'security-info-toggle' )->escaped() . "</span>";
+			$info = "<div id='security-info-toggle'>\n" . $out->msg( 'security-info', $link ) . "</div>\n";
 			$text = "$info<div id='security-info' style='display:none'>$itext</div>\n$text";
 		}
 
