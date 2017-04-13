@@ -160,7 +160,7 @@ class SimpleSecurity {
 			# Add info-toggle before title and hidden info after title
 			$link = "<span>" . $out->msg( 'security-info-toggle' )->escaped() . "</span>";
 			$info = "<div id='security-info-toggle'>\n" . $out->msg( 'security-info', $link ) . "</div>\n";
-			$text = "$bannerCode\n$info<div id='security-info' style='display:none'>$itext</div>\n$text";
+			$text = "$bannerCode $info<div id='security-info' style='display:none'>$itext</div>\n$text";
 		}
 
 		return true;
