@@ -7,7 +7,7 @@
 	"security": "Security log",
 	"security-desc": "Extends the MediaWiki page protection to allow restricting viewing of page content",
 	"security-logpage": "Security log",
-	"security-logpagetext": "This is a log of actions blocked by the [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity extension].",
+	"security-logpagetext": "This is a log of actions blocked by the [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity extension].",
 	"security-logentry": "",
 	"badaccess-read": "'''Warning:''' \"$1\" is referred to here, but you do not have sufficient permissions to access it.",
 	"security-info": "There are $1 on this page",
