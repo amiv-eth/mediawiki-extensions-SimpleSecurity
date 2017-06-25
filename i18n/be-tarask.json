@@ -9,7 +9,7 @@
 	"security": "Журнал бясьпекі",
 	"security-desc": "Пашырае магчымасьці абароны старонак MediaWiki і дазваляе абмяжоўваць прагляд зьместу старонак",
 	"security-logpage": "Журнал бясьпекі",
-	"security-logpagetext": "Гэта журнал дзеяньняў не дазволеных з дапамогай [http://www.mediawiki.org/wiki/Extension:SimpleSecurity пашырэньня SimpleSecurity].",
+	"security-logpagetext": "Гэта журнал дзеяньняў не дазволеных з дапамогай [https://www.mediawiki.org/wiki/Extension:SimpleSecurity пашырэньня SimpleSecurity].",
 	"badaccess-read": "Увага: «$1» спасылаецца сюды, але Вы ня маеце адпаведных правоў для доступу.",
 	"security-info": "Гэтая старонка мае $1",
 	"security-info-toggle": "абмежаваньні бясьпекі",

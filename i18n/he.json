@@ -10,7 +10,7 @@
 	"security": "יומן האבטחה",
 	"security-desc": "הרחבת הגנת הדפים במדיה־ויקי כך שתתאפשר הגבלת הצפיה בתוכן הדף",
 	"security-logpage": "יומן האבטחה",
-	"security-logpagetext": "זהו יומן הפעולות שנחסמו על ידי [http://www.mediawiki.org/wiki/Extension:SimpleSecurity ההרחבה SimpleSecurity].",
+	"security-logpagetext": "זהו יומן הפעולות שנחסמו על ידי [https://www.mediawiki.org/wiki/Extension:SimpleSecurity ההרחבה SimpleSecurity].",
 	"badaccess-read": "אזהרה: נמצאת כאן הפניה אל \"$1\", אך הרשאותיכם אינן מאפשרות גישה אליו.",
 	"security-info": "ישנם $1 בדף זה",
 	"security-info-toggle": "הגבלות אבטחה",

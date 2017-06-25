@@ -9,7 +9,7 @@
 	"security": "سجل الأمن",
 	"security-desc": "يمدد حماية المقالات في ميدياويكي للسماح بتحديد رؤية محتوى المقالات",
 	"security-logpage": "سجل الأمن",
-	"security-logpagetext": "هذا سجل بالأفعال الممنوعة بواسطة [http://www.mediawiki.org/wiki/Extension:SimpleSecurity امتداد الأمن البسيط].",
+	"security-logpagetext": "هذا سجل بالأفعال الممنوعة بواسطة [https://www.mediawiki.org/wiki/Extension:SimpleSecurity امتداد الأمن البسيط].",
 	"badaccess-read": "تحذير: \"$1\" ترجع إلى هنا، لكنك لا تمتلك سماحات كافية للوصول إليها.",
 	"security-info": "توجد $1 على هذه المقالة",
 	"security-info-toggle": "ضوابط الأمن",

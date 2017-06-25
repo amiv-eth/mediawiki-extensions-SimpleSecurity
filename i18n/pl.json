@@ -9,7 +9,7 @@
 	"security": "Rejestr zabezpieczania",
 	"security-desc": "Dodaje do funkcjonalności zabezpieczania stron możliwość ograniczania wyświetlania zawartości strony",
 	"security-logpage": "Rejestr zabezpieczania",
-	"security-logpagetext": "Jest to rejestr działań zablokowanych przez [http://www.mediawiki.org/wiki/Extension:SimpleSecurity rozszerzenie SimpleSecurity].",
+	"security-logpagetext": "Jest to rejestr działań zablokowanych przez [https://www.mediawiki.org/wiki/Extension:SimpleSecurity rozszerzenie SimpleSecurity].",
 	"badaccess-read": "Uwaga – nie masz wystarczających uprawnień dla dostępu do żądanej strony „$1”.",
 	"security-info": "Dostęp do tej strony jest $1",
 	"security-info-toggle": "ograniczony",

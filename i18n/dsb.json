@@ -7,7 +7,7 @@
 	"security": "Wěstotny protokol",
 	"security-desc": "Rozšyrja nastawkowy šćit MediaWiki wó móžnosć wobglědanje nastawkowego wopśimjeśa wobgranicowaś",
 	"security-logpage": "Wěstotny protokol",
-	"security-logpagetext": "To jo protokol akcijow blokěrowanych pséz [http://www.mediawiki.org/wiki/Extension:SimpleSecurity rozšyrjenje Simple Security].",
+	"security-logpagetext": "To jo protokol akcijow blokěrowanych pséz [https://www.mediawiki.org/wiki/Extension:SimpleSecurity rozšyrjenje Simple Security].",
 	"badaccess-read": "Warnowanje: How se na \"$1\" póśěgujo, ale njamaš pšawa, aby měł na njen pśistup.",
 	"security-info": "Su $1 wó toś tom nastawku",
 	"security-info-toggle": "wěstotne wobgranicowanja",

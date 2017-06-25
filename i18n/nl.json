@@ -9,7 +9,7 @@
 	"security": "Paginabeveiligingslogboek",
 	"security-desc": "Breidt de paginabescherming van MediaWiki uit door het bekijken van pagina's te beperken",
 	"security-logpage": "Paginabeveiligingslogboek",
-	"security-logpagetext": "Dit is een logboek met de handelingen die geblokkeerd zijn door de uitbreiding [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity].",
+	"security-logpagetext": "Dit is een logboek met de handelingen die geblokkeerd zijn door de uitbreiding [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity].",
 	"badaccess-read": "Waarschuwing: \"$1\" verwijst naar deze pagina, maar u hebt niet de toegangsrechten om deze pagina te bekijken.",
 	"security-info": "Er zijn $1 voor deze pagina",
 	"security-info-toggle": "beveiligingsbeperkingen",

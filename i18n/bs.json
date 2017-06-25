@@ -8,7 +8,7 @@
 	"security": "Zapisnik sigurnosti",
 	"security-desc": "Proširuje zaštitu MediaWiki stranice da bi se dopustilo pregledanje zaštićenog sadržaja stranice",
 	"security-logpage": "Zapisnik sigurnosti",
-	"security-logpagetext": "Ovo je zapisnik akcija blokiranih putem [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity proširenja].",
+	"security-logpagetext": "Ovo je zapisnik akcija blokiranih putem [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity proširenja].",
 	"badaccess-read": "Upozorenje: \"$1\" je povezano ovdje, ali nemate dovoljno privilegija da ovdje pristupite.",
 	"security-info": "Postoji $1 na ovom članku",
 	"security-info-toggle": "sigurnosna ograničenja",

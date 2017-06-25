@@ -11,7 +11,7 @@
 	"security": "Säkerhetslogg",
 	"security-desc": "Utökar MediaWikis sidskydd genom att tillåta begränsning av att sidinnehållet visas.",
 	"security-logpage": "Säkerhetslogg",
-	"security-logpagetext": "Detta är en logg över åtgärder blockerade av [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-tillägget].",
+	"security-logpagetext": "Detta är en logg över åtgärder blockerade av [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-tillägget].",
 	"badaccess-read": "'''Varning:''' \"$1\" hänvisas till här, men du saknar tillräcklig behörighet för att komma åt den.",
 	"security-info": "Det finns $1 på denna sida",
 	"security-info-toggle": "säkerhetsbegränsningar",

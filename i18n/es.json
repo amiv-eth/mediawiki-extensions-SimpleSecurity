@@ -13,7 +13,7 @@
 	"security": "Registro de seguridad",
 	"security-desc": "Extiende la protección de artículos MediaWiki para permitir vista restringida del contenido del artículo",
 	"security-logpage": "Registro de seguridad",
-	"security-logpagetext": "Esto es un registro de bloqueo de acciones hechos por [http://www.mediawiki.org/wiki/Extension:SimpleSecurity la extensión SimpleSecurity].",
+	"security-logpagetext": "Esto es un registro de bloqueo de acciones hechos por [https://www.mediawiki.org/wiki/Extension:SimpleSecurity la extensión SimpleSecurity].",
 	"badaccess-read": "Advertencia:\"$1\" está referenciado aquí, pero no tienes permisos suficientes para acceder a el.",
 	"security-info": "Hay $1 en este artículo",
 	"security-info-toggle": "restricciones de seguridad",

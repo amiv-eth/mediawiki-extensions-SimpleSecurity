@@ -7,7 +7,7 @@
 	"security": "Registro de securitate",
 	"security-desc": "Extende le protection de paginas MediaWiki pro permitter restringer le vista del contento del paginas",
 	"security-logpage": "Registro de securitate",
-	"security-logpagetext": "Isto es un registro de actiones blocate per le [http://www.mediawiki.org/wiki/Extension:SimpleSecurity extension SimpleSecurity].",
+	"security-logpagetext": "Isto es un registro de actiones blocate per le [https://www.mediawiki.org/wiki/Extension:SimpleSecurity extension SimpleSecurity].",
 	"badaccess-read": "Attention: \"$1\" es referentiate ci, ma tu non ha permissiones sufficiente pro acceder a illo.",
 	"security-info": "Iste pagina es subjecte a $1",
 	"security-info-toggle": "restrictiones de securitate",

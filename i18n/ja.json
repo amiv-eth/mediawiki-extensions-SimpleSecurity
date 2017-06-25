@@ -13,7 +13,7 @@
 	"security": "セキュリティ記録",
 	"security-desc": "ページの閲覧を制限できるようにMediaWikiのページ保護機能を拡張する",
 	"security-logpage": "セキュリティ記録",
-	"security-logpagetext": "これは、[http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity 拡張機能]によって阻止された操作の記録です。",
+	"security-logpagetext": "これは、[https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity 拡張機能]によって阻止された操作の記録です。",
 	"badaccess-read": "警告:「$1」はここを参照していますが、あなたにはアクセスに必要な権限がありません。",
 	"security-info": "このページには$1があります",
 	"security-info-toggle": "セキュリティ制限",
