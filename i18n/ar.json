@@ -3,7 +3,8 @@
 		"authors": [
 			"Meno25",
 			"OsamaK",
-			"روخو"
+			"روخو",
+			"ديفيد"
 		]
 	},
 	"security": "سجل الأمن",
@@ -14,7 +15,7 @@
 	"security-info": "توجد $1 على هذه المقالة",
 	"security-info-toggle": "ضوابط الأمن",
 	"security-inforestrict": "$1 مضبوط إلى $2",
-	"security-desc-LS": "(يطبق لأن هذه المقالة موجودة في \"$2 $1\")",
+	"security-desc-LS": "(ينطبق لأن هذه الصفحة موجودة في \"$2 $1\")",
 	"security-desc-PR": "(اضبط من لسان \"الحماية\")",
 	"security-infosysops": "لا قيود مفعّلة لأنك عضو في مجموعة \"sysop\"",
 	"security-manygroups": "المجموعات $1 و $2",
