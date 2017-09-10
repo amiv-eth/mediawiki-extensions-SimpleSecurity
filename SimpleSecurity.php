@@ -57,6 +57,9 @@ $wgPageRestrictions = array();
 # protection to apply to all instances of that record type
 $wgSecurityProtectRecords = true;
 
+# Extra information banner
+$wgExtraBanner = array();
+
 # Don't use the DB hook by default since it's voodoo
 if( !isset( $wgSecurityUseDBHook ) ) $wgSecurityUseDBHook = false;
 
