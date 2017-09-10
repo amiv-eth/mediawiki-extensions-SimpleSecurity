@@ -10,7 +10,7 @@
 	"security": "Tryggingslogg",
 	"security-desc": "Utvidar MediaWiki sin funksjon for sidevern til å gje høve til å sperra mot innsyn i sideinnhald",
 	"security-logpage": "Tryggingslogg",
-	"security-logpagetext": "Dette er ein logg over handlingar som er blokkerte av [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-utvidinga].",
+	"security-logpagetext": "Dette er ein logg over handlingar som er blokkerte av [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-utvidinga].",
 	"badaccess-read": "'''Åtvaring''': «$1» er synt til her, men du har ikkje turvande løyve til å få tilgjenge.",
 	"security-info": "Det finst $1 på denne sida",
 	"security-info-toggle": "tryggingsrelaterte avgrensingar",

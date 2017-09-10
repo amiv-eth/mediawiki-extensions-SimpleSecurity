@@ -9,7 +9,7 @@
 	"security": "Log pengamanan",
 	"security-desc": "Memperkaya proteksi halaman MediaWiki untuk membatasi tampilan isi halaman",
 	"security-logpage": "Log pengamanan",
-	"security-logpagetext": "Ini merupakan aksi yang diblok oleh [http://www.mediawiki.org/wiki/Extension:SimpleSecurity pengaya SimpleSecurity].",
+	"security-logpagetext": "Ini merupakan aksi yang diblok oleh [https://www.mediawiki.org/wiki/Extension:SimpleSecurity pengaya SimpleSecurity].",
 	"badaccess-read": "'''Peringatan''': \"$1\" merujuk ke sini, tapi Anda tidak memiliki izin yang memadai untuk mengaksesnya.",
 	"security-info": "Ada $1 pada halaman ini",
 	"security-info-toggle": "batasan pengamanan",

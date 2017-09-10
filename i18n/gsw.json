@@ -7,7 +7,7 @@
 	"security": "Sicherheits-Logbuech",
 	"security-desc": "Erwyteret dr Mediawiki-Syteschutz, zum Aaluege vum Syteinhalt yyzschränke",
 	"security-logpage": "Sicherheits-Logbuech",
-	"security-logpagetext": "Des isch s Logbuech vu dr Aktione, wu gsperrt sin dur d [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-Erwyterig].",
+	"security-logpagetext": "Des isch s Logbuech vu dr Aktione, wu gsperrt sin dur d [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-Erwyterig].",
 	"badaccess-read": "Warnig: \"$1\" isch do aagee, aber Du hesch nit d netig Berächtigung go die Syte aaluege.",
 	"security-info": "Uf däre Syte het s $1",
 	"security-info-toggle": "Sicherheitsyyschränkige",

@@ -9,7 +9,7 @@
 	"security": "Sikkerhetslogg",
 	"security-desc": "Utvider MediaWiki sin funksjon for sidevern til å tillate restriksjoner mot innsyn i sideinnhold",
 	"security-logpage": "Sikkerhetslogg",
-	"security-logpagetext": "Dette er en handlingslogg blokkert av [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-utvidelsen].",
+	"security-logpagetext": "Dette er en handlingslogg blokkert av [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity-utvidelsen].",
 	"badaccess-read": "'''Advarsel:''' «$1» blir henvist hit, men du har ikke tilstrekkelige rettigheter til å nå den.",
 	"security-info": "Det finnes $1 på denne siden",
 	"security-info-toggle": "sikkerhetsrelaterte begrensninger",

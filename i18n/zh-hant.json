@@ -5,11 +5,13 @@
 			"Oapbtommy",
 			"Shirayuki",
 			"Wrightbus",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Corainn"
 		]
 	},
 	"security": "安全日誌",
 	"security-logpage": "安全日誌",
+	"security-logpagetext": "這是[https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity extension]封鎖操作的日誌。",
 	"security-type-category": "分類",
 	"security-type-namespace": "命名空間",
 	"restriction-read": "讀"

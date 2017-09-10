@@ -8,7 +8,7 @@
 	"security": "Jornal de seguretat",
 	"security-desc": "Espandís l'interfàcia de proteccion de MediaWiki per permetre de restrénher la vista de las paginas",
 	"security-logpage": "Jornal de seguretat",
-	"security-logpagetext": "Aquò es un jornal de las accions blocadas per l'[http://www.mediawiki.org/wiki/Extension:SimpleSecurity extension SimpleSecurity].",
+	"security-logpagetext": "Aquò es un jornal de las accions blocadas per l'[https://www.mediawiki.org/wiki/Extension:SimpleSecurity extension SimpleSecurity].",
 	"badaccess-read": "Atencion : « $1 » es referenciat aicí, mas dispausatz pas de las autorizacions per i accedir.",
 	"security-info": "I a $1 sus aqueste article",
 	"security-info-toggle": "restriccions de seguretat",

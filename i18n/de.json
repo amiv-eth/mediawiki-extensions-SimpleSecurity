@@ -12,7 +12,7 @@
 	"security": "Sicherheits-Logbuch",
 	"security-desc": "Erweitert den Seitenschutz um die Möglichkeit, das Betrachten von Seiten einzuschränken.",
 	"security-logpage": "Sicherheits-Logbuch",
-	"security-logpagetext": "Dies ist das Logbuch der von [http://www.mediawiki.org/wiki/Extension:SimpleSecurity Extension „SimpleSecurity“] blockierten Aktionen.",
+	"security-logpagetext": "Dies ist das Logbuch der von [https://www.mediawiki.org/wiki/Extension:SimpleSecurity Extension „SimpleSecurity“] blockierten Aktionen.",
 	"badaccess-read": "'''Warnung:''' „$1“ verweist hierher. Du hast aber keine ausreichende Berechtigung, um die Seite zu sehen.",
 	"security-info": "Für diese Seite gibt es $1.",
 	"security-info-toggle": "Sicherheitseinschränkungen",

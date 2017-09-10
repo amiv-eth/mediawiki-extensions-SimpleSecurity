@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dragonòt"
+			"Dragonòt",
+			"Borichèt"
 		]
 	},
 	"security": "Registr ëd sicurëssa",
 	"security-desc": "A estend la protession dla pàgina ëd MediaWiki për përmëtte dë strenze la visualisassion dël contnù dla pàgina",
 	"security-logpage": "Registr ëd sicurëssa",
-	"security-logpagetext": "Sto sì a l'é un registr ëd l'assion blocà da l'[http://www.mediawiki.org/wiki/Extension:SimpleSecurity estension SimpleSecurity].",
+	"security-logpagetext": "Cost-sì a l'é un registr ëd j'assion blocà da l'[https://www.mediawiki.org/wiki/Extension:SimpleSecurity estension SimpleSecurity].",
 	"badaccess-read": "'''Avis''': \"$1\" a l'é riferìa sì, ma it l'has pa basta përmess për acedje.",
 	"security-info": "A-i son $1 an dzora a sta pàgina-sì",
 	"security-info-toggle": "restrission ëd sicurëssa",

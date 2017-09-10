@@ -8,7 +8,7 @@
 	"security": "Sécherheets-Logbuch",
 	"security-desc": "Erweidert de MediaWiki-Säiteschutz fir et z'erlaben d'Kucke vum Säiteninhalt ze limitéieren",
 	"security-logpage": "Sécherheets-Logbuch",
-	"security-logpagetext": "Dëst ass d'Logbuch vun den Aktioune vun der [http://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity Erweiderung].",
+	"security-logpagetext": "Dëst ass d'Logbuch vun den Aktioune vun der [https://www.mediawiki.org/wiki/Extension:SimpleSecurity SimpleSecurity Erweiderung].",
 	"badaccess-read": "Opgepasst: \"$1\" weist heihinn, awer dir hutt net genuch Rechter fir d'Säit ze gesinn.",
 	"security-info": "Et sinn $1 op dëser Säit",
 	"security-info-toggle": "Sécherheetsrestrictiounen",

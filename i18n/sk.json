@@ -8,7 +8,7 @@
 	"security": "Bezpečnostný záznam",
 	"security-desc": "Rozširuje zamykanie stránok MediaWiki o možnosť obmedziť zobrazovanie obsahu článku",
 	"security-logpage": "Bezpečnostný záznam",
-	"security-logpagetext": "Toto je záznam operácií, ktoré zablokovalo [http://www.mediawiki.org/wiki/Extension:SimpleSecurity rozšírenie SimpleSecurity].",
+	"security-logpagetext": "Toto je záznam operácií, ktoré zablokovalo [https://www.mediawiki.org/wiki/Extension:SimpleSecurity rozšírenie SimpleSecurity].",
 	"badaccess-read": "Upozornenie: odkazuje sa tu na „$1“, ale nemáte dostatočné oprácnenia na prístup k nemu.",
 	"security-info": "Táto stránka má $1",
 	"security-info-toggle": "bezpečnostné obmedzenia",

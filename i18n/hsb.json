@@ -7,7 +7,7 @@
 	"security": "Wěstotny protokol",
 	"security-desc": "Rozšěrja nastawkowy škit MediaWiki wo móžnosć wobhladanje nastawkoweho wobsaha wobmjezować",
 	"security-logpage": "Wěstotny protokol",
-	"security-logpagetext": "To je protokol akcijow zablokowanych přez [http://www.mediawiki.org/wiki/Extension:SimpleSecurity rozšěrjenje Simple Security].",
+	"security-logpagetext": "To je protokol akcijow zablokowanych přez [https://www.mediawiki.org/wiki/Extension:SimpleSecurity rozšěrjenje Simple Security].",
 	"badaccess-read": "Warnowanje: Na \"$1 so tu poćahuje, ale nimaš prawa, zo by přistup na njón měł.",
 	"security-info": "Su $1 wo tutym nastawku",
 	"security-info-toggle": "wěstotne wobmjezowanja",

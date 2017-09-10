@@ -7,7 +7,7 @@
 	"security": "Riggistro 'e sicurezza",
 	"security-desc": "Spanne 'a prutezione d' 'e paggene 'e MediaWiki pe' putè permettere 'e limmità 'a visualizzaziona d' 'o contenuto d' 'e paggene",
 	"security-logpage": "Riggistro 'e sicurezza",
-	"security-logpagetext": "Chest'è nu log 'e aziune bluccate p' 'a [http://www.mediawiki.org/wiki/Extension:SimpleSecurity extenziona impleSecurity].",
+	"security-logpagetext": "Chest'è nu log 'e aziune bluccate p' 'a [https://www.mediawiki.org/wiki/Extension:SimpleSecurity extenziona impleSecurity].",
 	"badaccess-read": "'''Attenziò:''' \"$1\" è riferita ccà, ma nun avite premmesse abbastanza pe' ne putè trasì.",
 	"security-info": "Songo prisente $1 int'a sta paggena",
 	"security-info-toggle": "restriziune 'e sicurezza",

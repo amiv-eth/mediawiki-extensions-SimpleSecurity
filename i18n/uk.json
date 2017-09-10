@@ -11,7 +11,7 @@
 	"security": "Журнал безпеки",
 	"security-desc": "Розширює захист сторінок MediaWiki, дозволяючи обмежувати перегляд вмісту сторінки",
 	"security-logpage": "Журнал безпеки",
-	"security-logpagetext": "Це журнал дій, заблокованих [http://www.mediawiki.org/wiki/Extension:SimpleSecurity розширенням SimpleSecurity].",
+	"security-logpagetext": "Це журнал дій, заблокованих [https://www.mediawiki.org/wiki/Extension:SimpleSecurity розширенням SimpleSecurity].",
 	"badaccess-read": "'''Увага:''' \"$1\" посилається сюди, але Ви не маєте достатніх повноважень для доступу до неi.",
 	"security-info": "На цій сторінці діють $1",
 	"security-info-toggle": "обмеження для забезпечення безпеки",

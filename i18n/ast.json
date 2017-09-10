@@ -7,7 +7,7 @@
 	"security": "Rexistru de seguridá",
 	"security-desc": "Enanta la protección d'artículos de MediaWiki pa permitir acutar la vista del conteníu de la páxina",
 	"security-logpage": "Rexistru de seguridá",
-	"security-logpagetext": "Esti ye'l rexistru de les aiciones bloquiaes pola [http://www.mediawiki.org/wiki/Extension:SimpleSecurity estensión SimpleSecurity].",
+	"security-logpagetext": "Esti ye'l rexistru de les aiciones bloquiaes pola [https://www.mediawiki.org/wiki/Extension:SimpleSecurity estensión SimpleSecurity].",
 	"badaccess-read": "'''Alvertencia:''' «$1» ta referenciao equí, pero nun tienes permisos d'accesu abondo.",
 	"security-info": "Hai $1 nesta páxina",
 	"security-info-toggle": "restricciones de seguridá",

@@ -7,7 +7,7 @@
 	"security": "Talaang pangkaligtasan",
 	"security-desc": "Nagdurugtong sa pag-iingat ng pahina ng MediaWiki upang pahintulutan ang pagbibigay ng hangganan sa pagtingin ng nilalaman ng pahina",
 	"security-logpage": "Talaang pangkaligtasan",
-	"security-logpagetext": "Isa itong talaan ng mga kilos na hinadlangan ng [http://www.mediawiki.org/wiki/Extension:SimpleSecurity karugtong na Kaligtasang Payak].",
+	"security-logpagetext": "Isa itong talaan ng mga kilos na hinadlangan ng [https://www.mediawiki.org/wiki/Extension:SimpleSecurity karugtong na Kaligtasang Payak].",
 	"badaccess-read": "Babala: isinangguni rito ang \"$1\", subalit wala kang sapat na mga kapahintulutan upang mapuntahan ito.",
 	"security-info": "Mayroon mga $1 sa ibabaw ng pahinang ito",
 	"security-info-toggle": "mga hangganang pangkaligtasan",

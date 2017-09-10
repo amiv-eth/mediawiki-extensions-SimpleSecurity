@@ -8,7 +8,7 @@
 	"security": "Rexistro de seguridade",
 	"security-desc": "Amplía a protección da páxina MediaWiki para permitir a restrición da visualización da páxina de contido",
 	"security-logpage": "Rexistro de seguridade",
-	"security-logpagetext": "Este é un rexistro das accións bloqueadad pola [http://www.mediawiki.org/wiki/Extension:SimpleSecurity extensión SimpleSecurity].",
+	"security-logpagetext": "Este é un rexistro das accións bloqueadad pola [https://www.mediawiki.org/wiki/Extension:SimpleSecurity extensión SimpleSecurity].",
 	"badaccess-read": "Advertencia: \"$1\" está aquí referida, pero non ten os permisos necesarios para acceder a ela.",
 	"security-info": "Hai $1 nesta páxina",
 	"security-info-toggle": "restricións de seguridade",
