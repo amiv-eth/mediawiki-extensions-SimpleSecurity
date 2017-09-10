@@ -53,6 +53,9 @@ $wgSecurityGroupsArticle = false;
 # Extra group permissions rules
 $wgPageRestrictions = array();
 
+# Extra information banner
+$wgExtraBanner = array();
+
 # Enable this if you use the RecordAdmin extension and want Record template's
 # protection to apply to all instances of that record type
 $wgSecurityProtectRecords = true;
